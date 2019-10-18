@@ -1,0 +1,110 @@
+@import './sections/_nav.scss';
+@import './sections/_welcome.scss';
+@import './sections/_about.scss';
+@import './partials/_colors.scss';
+@import './partials/_helpers.scss';
+@import './partials/_variables.scss';
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 80%;
+    min-height: 100px;
+    margin: 0 auto;
+}
+
+@media (max-width: $screen-break-medium) {
+
+    nav ul li {
+        &:not(.menu):not(.logo) {
+            display: none;
+        }
+
+        &.menu {
+            display: block;
+        }
+
+        &.logo {
+            margin-right: auto;
+        }
+
+        &.contact {
+            font-size: 15px;
+            padding: 20px 27px;
+        }
+    }
+
+    section#welcome {
+        height: 70vh;
+    }
+
+    section#about {
+        display: block;
+
+        .side {
+            width: 100%;
+            padding: 0;
+            transition-duration: 0.3s;
+        }
+
+        .left-side {
+            h1 {
+                font-size: 40px;
+            }
+            p {
+                font-size: 20px;
+            }
+        } 
+
+        .right-side {
+            text-align: center;
+        }
+
+        .container {
+            display: block;
+        }
+            
+    }
+
+}
+
+@media (max-width: $screen-break-small) {
+    nav {
+        padding: 0px;
+
+        ul {
+            li.contact {
+                padding-top: 12px;
+                padding-bottom: 12px;
+            }
+        }
+    }
+
+    section#welcome {
+        .centered .action {
+            width: 270px;
+            height: 57px;
+            line-height: 57px;
+            font-size: 28px;
+            margin-top: 20px;
+        }
+    }
+
+}
+
+@media (max-width: $screen-break-xsmall) {
+    nav ul li {
+
+        &.contact {
+            display: none;
+        }
+
+        &.logo {
+            margin: 0 auto;
+        }
+    }
+}

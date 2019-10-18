@@ -1,0 +1,112 @@
+nav {
+  width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  height: 100px;
+  padding: 0px 20px;
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.7);
+  z-index: 100;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+}
+
+nav ul {
+  height: 100%;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  min-width: 100px;
+  padding: 5px 10px;
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0px 20px;
+  cursor: pointer;
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+  text-align: center;
+}
+
+nav ul li:not(.contact):not(.logo):hover {
+  text-decoration: underline;
+}
+
+nav ul li:nth-child(2) {
+  margin-left: auto;
+}
+
+nav ul li.logo {
+  font-size: 31px;
+  font-weight: 400;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  height: 100%;
+  line-height: 100px;
+  position: relative;
+}
+
+@media (hover: hover) {
+  nav ul li.logo::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 0%;
+    width: 100%;
+    z-index: -1;
+    -webkit-transition: .3s ease;
+    transition: .3s ease;
+    background-image: -webkit-gradient(linear, left top, right top, from(#DB00FF), color-stop(51%, #6100FF), to(#DB00FF));
+    background-image: linear-gradient(to right, #DB00FF 0%, #6100FF 51%, #DB00FF 100%);
+    opacity: 1;
+    background-size: 400%;
+  }
+  nav ul li.logo:hover::after {
+    height: 100%;
+  }
+  nav ul li.logo:hover > a {
+    color: #fff;
+  }
+}
+
+nav ul li.logo a {
+  text-decoration: none;
+  color: #000;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+}
+
+nav ul li.contact {
+  background-image: -webkit-gradient(linear, left top, right top, from(#DB00FF), color-stop(51%, #6100FF), to(#DB00FF));
+  background-image: linear-gradient(to right, #DB00FF 0%, #6100FF 51%, #DB00FF 100%);
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+  background-size: 200%;
+  color: #fff;
+  padding: 20px 30px;
+  border-radius: 13px;
+  border: none;
+}
+
+nav ul li.contact a {
+  text-decoration: none;
+  color: #fff;
+}
+
+nav ul li.contact:hover {
+  background-position: right center;
+}
+/*# sourceMappingURL=nav.css.map */

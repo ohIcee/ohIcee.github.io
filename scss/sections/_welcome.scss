@@ -1,0 +1,63 @@
+@import '../partials/_variables.scss';
+
+section#welcome {
+    height: 55vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: .3s all;
+
+    .centered {
+        width: 70%;
+        height: 70%;
+        min-height: 500px;
+        text-align: center;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+        margin-top: 10%;
+
+        h1 {
+            font-size: $text-heading-size;
+            font-weight: $font-weight--normal;
+            margin-bottom: 0;
+            margin-top: 0;
+            color: $text-dark;
+            line-height: 1.2;
+
+            &.name {
+                margin-left: -13%;
+            }
+
+            &.surname {
+                margin-left: 13%;
+            }
+        }
+
+        .action {
+            width: 383px;
+            height: 82px;
+            border-radius: 13px;
+            font-size: 34px;
+            color: $text-light;
+            background-image: linear-gradient(to right, $secondary-color 0%,$primary-color 51%,$secondary-color 100%);
+            transition: .5s ease;
+            background-size: 200%;
+            cursor: pointer;
+            outline: none;
+            border: none;
+            margin-top: 40px;
+            line-height: 82px;
+            font-family: 'Poppins';
+            text-decoration: none;
+
+            &:hover {
+                background-position: right center;
+            }
+        }
+
+    }
+}
