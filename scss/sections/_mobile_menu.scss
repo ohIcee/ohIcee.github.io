@@ -1,0 +1,54 @@
+.mobile-menu-overlay {
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform: scaleY(.5);
+    transition: .3s ease;
+    background: rgba(0, 0, 0, 0.8);
+    opacity: 0;
+    z-index: -1;
+    transform-origin: top;
+
+    ul {
+
+        height: 100%;
+        width: 100%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+
+        li {
+
+            color: $text-light;
+            font-size: $text-mobile-nav-size;
+            margin-top: 10px;
+            cursor: pointer;
+
+            &:hover {
+                text-decoration: underline;
+            }
+
+            &:nth-child(1) {
+                margin-bottom: 30px;
+                font-weight: bold;
+            }
+
+        }
+    }
+
+}
+
+.show-mobile-menu {
+    z-index: 6;
+    opacity: 1;
+    transform: scaleY(1);
+}

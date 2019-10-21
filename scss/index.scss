@@ -1,6 +1,9 @@
 @import './sections/_nav.scss';
 @import './sections/_welcome.scss';
 @import './sections/_about.scss';
+@import './sections/_mobile_menu.scss';
+@import './sections/_projects.scss';
+@import './sections/_contact.scss';
 @import './partials/_colors.scss';
 @import './partials/_helpers.scss';
 @import './partials/_variables.scss';
@@ -15,6 +18,17 @@ body {
     width: 80%;
     min-height: 100px;
     margin: 0 auto;
+}
+
+.noscroll {
+    overflow: hidden;
+}
+
+#particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
 
 @media (max-width: $screen-break-medium) {
@@ -91,6 +105,12 @@ body {
             line-height: 57px;
             font-size: 28px;
             margin-top: 20px;
+        }
+    }
+
+    section#projects {
+        .projects-list .project h1 .date {
+            display: table;
         }
     }
 

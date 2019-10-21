@@ -1,3 +1,12 @@
+.nav-nobg {
+  background: none;
+  color: #fff;
+}
+
+.nav-nobg ul li.logo a {
+  color: #fff;
+}
+
 nav {
   width: 100%;
   -webkit-box-sizing: border-box;
@@ -36,6 +45,11 @@ nav ul li {
   -webkit-transition: .5s ease;
   transition: .5s ease;
   text-align: center;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #000;
 }
 
 nav ul li:not(.contact):not(.logo):hover {
@@ -150,6 +164,10 @@ nav ul li.menu:hover > svg {
 
 section#welcome {
   height: 55vh;
+  z-index: 1;
+}
+
+section#welcome .container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -163,7 +181,7 @@ section#welcome {
   transition: .3s all;
 }
 
-section#welcome .centered {
+section#welcome .container .centered {
   width: 70%;
   height: 70%;
   min-height: 500px;
@@ -186,7 +204,7 @@ section#welcome .centered {
   margin-top: 10%;
 }
 
-section#welcome .centered h1 {
+section#welcome .container .centered h1 {
   font-size: 50px;
   font-weight: 400;
   margin-bottom: 0;
@@ -195,15 +213,15 @@ section#welcome .centered h1 {
   line-height: 1.2;
 }
 
-section#welcome .centered h1.name {
+section#welcome .container .centered h1.name {
   margin-left: -13%;
 }
 
-section#welcome .centered h1.surname {
+section#welcome .container .centered h1.surname {
   margin-left: 13%;
 }
 
-section#welcome .centered .action {
+section#welcome .container .centered .action {
   width: 383px;
   height: 82px;
   border-radius: 13px;
@@ -223,7 +241,7 @@ section#welcome .centered .action {
   text-decoration: none;
 }
 
-section#welcome .centered .action:hover {
+section#welcome .container .centered .action:hover {
   background-position: right center;
 }
 
@@ -244,10 +262,19 @@ section#about .container {
 section#about > svg {
   z-index: 5;
   background-color: #fff;
+}
+
+section#about > svg#top-wave {
   -webkit-transform-origin: top;
           transform-origin: top;
   -webkit-animation: animateWave 1000ms cubic-bezier(0.24, 0.12, 0.37, 1.01) forwards;
           animation: animateWave 1000ms cubic-bezier(0.24, 0.12, 0.37, 1.01) forwards;
+}
+
+section#about > svg:not(#top-wave) {
+  -webkit-transform: scale(1, 1);
+          transform: scale(1, 1);
+  margin-bottom: -7px;
 }
 
 section#about::after {
@@ -309,6 +336,172 @@ section#about .right-side img {
   }
 }
 
+.mobile-menu-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-transform: scaleY(0.5);
+          transform: scaleY(0.5);
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+  background: rgba(0, 0, 0, 0.8);
+  opacity: 0;
+  z-index: -1;
+  -webkit-transform-origin: top;
+          transform-origin: top;
+}
+
+.mobile-menu-overlay ul {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.mobile-menu-overlay ul li {
+  color: #fff;
+  font-size: 32px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.mobile-menu-overlay ul li:hover {
+  text-decoration: underline;
+}
+
+.mobile-menu-overlay ul li:nth-child(1) {
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+.show-mobile-menu {
+  z-index: 6;
+  opacity: 1;
+  -webkit-transform: scaleY(1);
+          transform: scaleY(1);
+}
+
+section#projects {
+  margin-top: -50px;
+  min-height: 60vh;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  position: relative;
+  background: #fff;
+  color: #000;
+}
+
+section#projects .anchor {
+  position: absolute;
+  top: -100px;
+}
+
+section#projects .bold {
+  font-weight: 600;
+}
+
+section#projects h1.header {
+  font-size: 50px;
+}
+
+section#projects .projects-list .project {
+  min-height: 150px;
+  padding: 20px 40px;
+  border-left: 3px solid #6100FF;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+  margin: 20px 0px;
+}
+
+section#projects .projects-list .project h1 .date {
+  color: rgba(0, 0, 0, 0.6);
+  background: white;
+  padding: 1px 10px;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+}
+
+section#projects .projects-list .project span.inline > h3 {
+  margin-right: 30px;
+}
+
+section#projects .projects-list .project span.inline > * {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+section#projects .projects-list .project:hover {
+  background: #6100FF;
+  color: #fff;
+  cursor: pointer;
+}
+
+section#projects .projects-list .project:hover h1 .date {
+  margin-left: 10px;
+}
+
+section#contact {
+  min-height: 85vh;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  position: relative;
+  background-color: #DB00FF;
+  color: #fff;
+}
+
+section#contact h1 {
+  font-size: 50px;
+}
+
+section#contact svg {
+  background: #fff;
+}
+
+section#contact .option-wrapper {
+  border-left: 3px solid #6100FF;
+  display: inline-block;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+  padding: 10px 20px;
+  padding-right: 40px;
+}
+
+section#contact .option-wrapper:hover {
+  background: #6100FF;
+  color: #fff;
+  border-color: #6100FF;
+  cursor: pointer;
+  padding-left: 40px;
+}
+
+section#contact .option-wrapper p {
+  font-size: 20px;
+}
+
+section#contact .option-wrapper p span {
+  font-weight: 600;
+  margin-right: 20px;
+}
+
 body {
   padding: 0;
   margin: 0;
@@ -319,6 +512,17 @@ body {
   width: 80%;
   min-height: 100px;
   margin: 0 auto;
+}
+
+.noscroll {
+  overflow: hidden;
+}
+
+#particles-js {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 @media (max-width: 902px) {
@@ -375,6 +579,9 @@ body {
     line-height: 57px;
     font-size: 28px;
     margin-top: 20px;
+  }
+  section#projects .projects-list .project h1 .date {
+    display: table;
   }
 }
 

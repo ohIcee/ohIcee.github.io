@@ -1,5 +1,14 @@
 @import '../partials/_variables.scss';
 
+.nav-nobg {
+    background: none;
+    color: $text-light;
+
+    ul li.logo a {
+        color: $text-light;
+    }
+}
+
 nav {
     width: 100%;
     box-sizing: border-box;
@@ -28,6 +37,11 @@ nav {
             cursor: pointer;
             transition: .5s ease;
             text-align: center;
+
+            a {
+                text-decoration: none;
+                color: $text-dark;
+            }
 
             &:not(.contact):not(.logo):hover {
                 text-decoration: underline;
@@ -127,6 +141,7 @@ nav {
                 &:hover > svg {
                     color: $text-light;
                 }
+
             }
         }
     }
