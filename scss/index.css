@@ -163,8 +163,14 @@ nav ul li.menu:hover > svg {
 }
 
 section#welcome {
-  height: 55vh;
+  min-height: 55vh;
   z-index: 1;
+}
+
+section#welcome svg {
+  background: #6100FF;
+  margin-bottom: -10px;
+  z-index: 2;
 }
 
 section#welcome .container {
@@ -259,22 +265,8 @@ section#about .container {
   display: flex;
 }
 
-section#about > svg {
-  z-index: 5;
-  background-color: #fff;
-}
-
-section#about > svg#top-wave {
-  -webkit-transform-origin: top;
-          transform-origin: top;
-  -webkit-animation: animateWave 1000ms cubic-bezier(0.24, 0.12, 0.37, 1.01) forwards;
-          animation: animateWave 1000ms cubic-bezier(0.24, 0.12, 0.37, 1.01) forwards;
-}
-
-section#about > svg:not(#top-wave) {
-  -webkit-transform: scale(1, 1);
-          transform: scale(1, 1);
-  margin-bottom: -7px;
+section#about svg {
+  background: #fff;
 }
 
 section#about::after {
@@ -523,6 +515,7 @@ body {
   top: 0;
   left: 0;
   width: 100%;
+  z-index: 1;
 }
 
 @media (max-width: 902px) {
@@ -538,9 +531,6 @@ body {
   nav ul li.contact {
     font-size: 15px;
     padding: 20px 27px;
-  }
-  section#welcome {
-    height: 70vh;
   }
   section#about {
     display: block;

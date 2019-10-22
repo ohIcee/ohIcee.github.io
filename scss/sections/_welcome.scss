@@ -1,8 +1,14 @@
 @import '../partials/_variables.scss';
 
 section#welcome {
-    height: 55vh;
+    min-height: 55vh;
     z-index: 1;
+
+    svg {
+        background: $primary-color;
+        margin-bottom: -10px;
+        z-index: 2;
+    }
     
     .container {
         display: flex;

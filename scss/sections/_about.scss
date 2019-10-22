@@ -11,19 +11,8 @@ section#about {
         display: flex;
     }
 
-    &>svg {
-        z-index: 5;
-        background-color: $background-color;
-
-        &#top-wave {
-            transform-origin: top;
-            animation: animateWave 1000ms cubic-bezier(.24,.12,.37,1.01) forwards;
-        }
-
-        &:not(#top-wave) {
-            transform: scale(1, 1);
-            margin-bottom: -7px;
-        }
+    svg {
+        background: $background-color;
     }
 
     &::after {
