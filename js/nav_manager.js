@@ -10,10 +10,12 @@ function menu_toggle() {
     if (is_active) {
         html.classList.remove('noscroll');
         mobile_menu.classList.remove('show-mobile-menu');
+        menu_button.classList.remove('is-active');
         nav.classList.remove('nav-nobg');
     } else {
         html.classList.add('noscroll');
         mobile_menu.classList.add('show-mobile-menu');
+        menu_button.classList.add('is-active');
         nav.classList.add('nav-nobg');
     }
 

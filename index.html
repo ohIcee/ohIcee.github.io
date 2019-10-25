@@ -28,9 +28,11 @@
             <li onclick="menu_item('contact', false)" class="contact">
                 <a>Contact me</a>   
             </li>
-            <li onclick="menu_toggle()" class="menu" id="mobile-nav-toggle">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
-            </li>
+            <button onclick="menu_toggle()" class="hamburger hamburger--spin menu" id="mobile-nav-toggle" type="button">
+                <span class="hamburger-box">
+                  <span class="hamburger-inner"></span>
+                </span>
+              </button>
         </ul>
     </nav>
 
@@ -40,9 +42,9 @@
             
         <div class="container">
             <div class="centered">
-                <h1 class="name">Marko</h1>
-                <h1 class="surname">Plaznik</h1>
-                <a class="action" href="#about-anchor"> <span>Get to know me</span> </a>
+                <h1 class="name animated fadeInLeft">Marko</h1>
+                <h1 class="surname animated fadeInRight">Plaznik</h1>
+                <a class="action animated fadeInUp" href="#about-anchor"> <span>Get to know me</span> </a>
             </div>
         </div>
 
