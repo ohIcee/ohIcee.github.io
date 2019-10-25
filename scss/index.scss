@@ -29,10 +29,15 @@ body {
     top: 0;
     left: 0;
     width: 100%;
+    height: 100%;
     z-index: 1;
 }
 
 @media (max-width: $screen-break-medium) {
+
+    .container {
+        width: 90%;
+    }
 
     nav ul li {
         &:not(.menu):not(.logo) {
@@ -77,8 +82,21 @@ body {
 
         .container {
             display: block;
-        }
-            
+        }       
+    }
+
+    section#projects {
+        .projects-list .project {
+
+            &:hover > h1 .date {
+                padding: 1px 10px;
+            }
+
+            h1 .date {
+                display: table;
+                padding: 1px 0px;
+            }
+        }            
     }
 
 }
@@ -96,11 +114,11 @@ body {
     }
 
     section#welcome {
-        .centered .action {
-            width: 270px;
-            height: 57px;
-            line-height: 57px;
-            font-size: 28px;
+        .container .centered .action {
+            width: 280px;
+            height: 70px;
+            line-height: 70px;
+            font-size: 24px;
             margin-top: 20px;
         }
     }

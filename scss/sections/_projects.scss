@@ -30,7 +30,13 @@ section#projects {
             border-left: 3px solid $primary-color;
             transition: .3s ease;
             margin: 20px 0px;
+            position: relative;
 
+            h1, p, span {
+                position: relative;
+                z-index: 1;
+            }
+            
             h1 .date {
                 color: rgba($text-dark, 0.6);
                 background: white;
@@ -50,9 +56,9 @@ section#projects {
             }
 
             &:hover {
-                background: $primary-color;
                 color: $text-light;
                 cursor: pointer;
+                background: $primary-color;
 
                 h1 .date {
                     margin-left: 10px;

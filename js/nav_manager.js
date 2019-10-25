@@ -1,25 +1,23 @@
 var menu_button = document.getElementsByClassName("menu")[0];
 var mobile_menu = document.getElementsByClassName("mobile-menu-overlay")[0];
 var nav = document.querySelector('nav');
-var body = document.querySelector('body');
+var html = document.querySelector('html');
+
+var is_active = false;
 
 function menu_toggle() {
     
-    body.classList.contains('noscroll')
-        ? body.classList.remove('noscroll')
-        : body.classList.add('noscroll');
-
-    mobile_menu.classList.contains('show-mobile-menu')
-        ? mobile_menu.classList.remove('show-mobile-menu')
-        : mobile_menu.classList.add('show-mobile-menu');
-
-    nav.classList.contains('nav-nobg')
-        ? nav.classList.remove('nav-nobg')
-        : nav.classList.add('nav-nobg');
-
-    if (mobile_menu.classList.contains('show-mobile-menu')) {
-        scrollTo('#welcome');
+    if (is_active) {
+        html.classList.remove('noscroll');
+        mobile_menu.classList.remove('show-mobile-menu');
+        nav.classList.remove('nav-nobg');
+    } else {
+        html.classList.add('noscroll');
+        mobile_menu.classList.add('show-mobile-menu');
+        nav.classList.add('nav-nobg');
     }
+
+    is_active = !is_active;
 
 }
 
@@ -31,7 +29,7 @@ function menu_item(i, _toggle_menu) {
 
     switch(i) {
         case 'home':
-            scrollTo('#');
+            scrollTo('#welcome');
             break;
         case 'cv':
             break;
@@ -44,3 +42,14 @@ function menu_item(i, _toggle_menu) {
     }
 
 }
+
+// Hide mobile menu if window resized
+// further than mobile size
+var onresize = function() {
+    width = document.body.clientWidth;
+
+    if (width > 885 && is_active) {
+        menu_toggle();
+    }
+}
+window.addEventListener("resize", onresize);
