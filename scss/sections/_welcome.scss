@@ -1,0 +1,133 @@
+@import '../partials/_variables.scss';
+
+section#welcome {
+    min-height: 55vh;
+    z-index: 1;
+
+    svg {
+        background: $primary-color;
+        margin-bottom: -10px;
+        z-index: 2;
+        animation: animateWave 1s ease;
+        transform-origin: bottom;
+    }
+    
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: .3s all;
+    
+        .centered {
+            width: 70%;
+            height: 70%;
+            min-height: 500px;
+            text-align: center;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 2;
+            margin-top: 10%;
+    
+            h1 {
+                transition: .3s ease;
+                font-size: $text-heading-size;
+                font-weight: $font-weight--normal;
+                margin-bottom: 0;
+                margin-top: 0;
+                color: $text-dark;
+                line-height: 1.2;
+    
+                &.name {
+                    margin-left: -13%;
+                }
+    
+                &.surname {
+                    margin-left: 13%;
+                }
+            }
+    
+            .action {
+                width: 383px;
+                height: 82px;
+                border-radius: 13px;
+                font-size: 34px;
+                color: $secondary-color;
+                border: 2px solid $secondary-color;
+                transition: .3s ease;
+                background-size: 200%;
+                cursor: pointer;
+                outline: none;
+                margin-top: 40px;
+                line-height: 82px;
+                font-family: 'Poppins';
+                text-decoration: none;
+
+                box-shadow: 5px 5px 7px rgba(#000, 0.5);
+
+                &:active {
+                    box-shadow: 3px 3px 4px rgba(#000, 0.8);
+                }
+
+                &:hover {
+                    background-position: right center;
+                    background-color: $secondary-color;
+                    color: $text-light;
+                    box-shadow: 4px 4px 4px rgba(#000, 0.65);
+                }
+            }
+    
+        }
+    }
+
+}
+
+@keyframes welcome_name_anim {
+    0% {
+        transform: translateX(-200px);
+
+    }
+
+    100% {
+        transform: translateX(0px);
+    }
+}
+
+@keyframes welcome_surname_anim {
+    0% {
+        transform: translateX(200px);
+
+    }
+
+    100% {
+        transform: translateX(0px);
+    }
+}
+
+@keyframes welcome_action_anim {
+    0% {
+        opacity: 0;
+        transform: translateY(100px);
+        box-shadow: 4px 4px 1px rgba(#000, 0);
+    }
+
+    30% {
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0px);
+        box-shadow: 4px 4px 5px rgba(#000, 0.5);
+    }
+}
+
+@keyframes animateWave {
+    0% {
+        transform: scale(1, 0);
+    }
+    100% {
+        transform: scale(1, 1);
+    }
+}

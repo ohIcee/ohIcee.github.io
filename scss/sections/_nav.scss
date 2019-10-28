@@ -1,0 +1,136 @@
+@import '../partials/_variables.scss';
+
+.nav-nobg {
+    background: none;
+    color: $text-light;
+
+    ul li.logo a {
+        color: $text-light;
+    }
+}
+
+nav {
+    width: 100%;
+    box-sizing: border-box;
+    height: 100px;
+    padding: 0px 20px;
+    position: fixed;
+    background-color: rgba($background-color, 0.7);
+    z-index: 100;
+    transition: .3s ease;
+
+    .menu.hamburger {
+        display: none;
+        margin: 0;
+        padding-left: 0;
+        padding-right: 0;
+        height: 100%;
+        line-height: 100px;
+        outline: none;
+
+        .hamburger-box {
+            display: block;
+            margin: 0px 20px;
+        }
+
+        &.hamburger.is-active .hamburger-inner {
+            &::before,
+            &::after {
+                background-color: white;
+            }
+            background-color: white;
+        }
+    }
+
+    ul {
+        height: 100%;
+        padding: 0;
+        display: flex;
+        align-items: center;
+        margin: 0;
+
+        li {
+            display: inline;
+            box-sizing: border-box;
+            min-width: 100px;
+            padding: 0px 10px;
+            font-size: 22px;
+            font-weight: $font-weight--semibold;
+            margin: 0px 20px;
+            cursor: pointer;
+            transition: .5s ease;
+            text-align: center;
+
+            a {
+                text-decoration: none;
+                color: $text-dark;
+            }
+
+            &:not(.contact):not(.logo):hover {
+                text-decoration: underline;
+            }
+
+            &:nth-child(2) {
+                margin-left: auto;
+            }
+
+            &.logo {
+                font-size: 31px;
+                font-weight: $font-weight--normal;
+                transition: .3s ease;
+                box-sizing: content-box;
+                height: 100%;
+                line-height: 100px;
+                position: relative;
+
+                &::after {
+                    content: "";
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    height: 0%;
+                    width: 100%;
+                    z-index: -1;
+                    transition: .3s ease;
+                    background-image: linear-gradient(to right, $secondary-color 0%,$primary-color 51%,$secondary-color 100%);
+                    opacity: 1;
+                    background-size: 400%;
+                }
+
+                &:hover::after {
+                    height: 100%;
+                }
+
+                &:hover > a {
+                    color: $text-light;
+                }
+
+                a {
+                    text-decoration: none;
+                    color: $text-dark;
+                    transition: .3s ease;
+                }
+            }
+
+            &.contact {
+                background-image: linear-gradient(to right, $secondary-color 0%,$primary-color 51%,$secondary-color 100%);
+                transition: .5s ease;
+                background-size: 200%;
+                color: $text-light;
+                padding: 20px 30px;
+                border-radius: 13px;
+                border: none;
+
+                a {
+                    text-decoration: none;
+                    color: $text-light;
+                }
+
+                &:hover {
+                    background-position: right center;
+                }
+            }
+        }
+    }
+
+}

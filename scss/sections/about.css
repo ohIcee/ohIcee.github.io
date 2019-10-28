@@ -1,0 +1,54 @@
+section#about {
+  min-height: 60vh;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: #6100FF;
+  position: relative;
+  overflow: hidden;
+}
+
+section#about > svg {
+  display: block;
+  z-index: 5;
+}
+
+section#about::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 20%;
+  background-color: white;
+  left: 0;
+  top: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+section#about .side {
+  width: 50%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: inline-block;
+  padding: 40px;
+}
+
+section#about .left-side h1 {
+  font-size: 50px;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+section#about .left-side p {
+  font-size: 20px;
+}
+
+section#about .right-side img {
+  width: auto;
+  height: 100%;
+  max-height: 400px;
+}
+/*# sourceMappingURL=about.css.map */

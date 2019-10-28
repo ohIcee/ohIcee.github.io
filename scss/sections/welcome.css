@@ -1,0 +1,75 @@
+section#welcome {
+  height: 90vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+section#welcome .centered {
+  width: 70%;
+  height: 70%;
+  min-height: 500px;
+  text-align: center;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+section#welcome .centered h1 {
+  font-size: 50px;
+  font-weight: 400;
+  margin-bottom: 0;
+  margin-top: 0;
+  color: #000;
+  line-height: 1.2;
+}
+
+section#welcome .centered h1.name {
+  margin-left: -13%;
+}
+
+section#welcome .centered h1.surname {
+  margin-left: 13%;
+}
+
+section#welcome .centered .action {
+  width: 383px;
+  height: 82px;
+  border-radius: 13px;
+  font-size: 34px;
+  color: #fff;
+  background-image: -webkit-gradient(linear, left top, right top, from(#DB00FF), color-stop(51%, #6100FF), to(#DB00FF));
+  background-image: linear-gradient(to right, #DB00FF 0%, #6100FF 51%, #DB00FF 100%);
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+  background-size: 200%;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  margin-top: 40px;
+  line-height: 82px;
+  font-family: 'Poppins';
+  text-decoration: none;
+}
+
+section#welcome .centered .action:hover {
+  background-position: right center;
+}
+/*# sourceMappingURL=welcome.css.map */
