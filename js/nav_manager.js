@@ -34,6 +34,7 @@ function menu_item(i, _toggle_menu) {
             scrollTo('#welcome');
             break;
         case 'cv':
+            window.location.href = "cv.html";
             break;
         case 'projects':
             scrollTo('#projects-anchor');

@@ -1,0 +1,145 @@
+$screen-break-xsmall: 376px;
+$screen-break-small: 435px;
+$screen-break-medium: 902px;
+$screen-break-large: 1191px;
+$screen-break-xlarge: 1400px;
+
+html, body {
+    padding: 0;
+    margin: 0;   
+    font-family: 'Poppins', sans-serif;
+    animation: 1s cubic-bezier(.21,.6,.6,1) 0s 1 yOverflow;
+    overflow-x: hidden;
+}
+
+#bg {
+    position: absolute;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+}
+
+#wrapper {
+    position: relative;
+    height: 100vh;
+    background-image: linear-gradient(to bottom right, #2f016b, #6100FF);
+    width: 100vw;
+}
+
+#file-mockup {
+    transition-duration: .3s;
+    transition-timing-function: cubic-bezier(.21,.6,.6,1);
+    background-color: white;
+    min-height: 500px;
+    width: 100vw;
+    max-width: 80%;
+    box-shadow: 5px 10px 3px rgba(0, 0, 0, 0.7);
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    animation: 1s cubic-bezier(.21,.6,.6,1) 0s 1 slideInForm;
+    overflow: hidden;
+
+    h1 {
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+
+    h2 {
+        color: rgba(0, 0, 0, 0.7);
+        margin-left: 40px;
+    }
+
+    p {
+        padding: 40px;
+    }
+
+    .button {
+        margin-left: 40px;
+        padding: 25px;
+        margin-top: 10px;
+        background: none;
+        border: 1px solid #2f016b;
+        cursor: pointer;
+        transition-duration: .3s;
+        border-radius: 2px;
+        font-size: 15px;
+        text-decoration: none;
+        color: black;
+
+        &:hover {
+            background-color: #2f016b;
+            color: white;          
+        }
+
+        &.home {
+            position: absolute;
+            padding: 35px 35px;
+            margin: 40px;
+            top: 0;
+            right: 0;
+            border-radius: 0;
+            font-size: 20px;
+            font-weight: bold;
+            border: none;
+
+            &:hover::after,
+            &:hover::before {
+                border-color: white;
+            }
+
+            &:after {
+                content: '';
+                height: 35px;
+                border-left: 2px solid #000;
+                position: absolute;
+                transform: rotate(45deg);
+                left: 34px;
+                top: 18px;
+            }
+            
+            &:before {
+                content: '';
+                height: 35px;
+                border-left: 2px solid #000;
+                position: absolute;
+                transform: rotate(-45deg);
+                top: 18px;
+                left: 34px;
+            }
+              
+        }
+
+    }
+}
+
+@keyframes slideInForm {
+    0% {
+      bottom: -100%;
+    }
+    100% {
+      bottom: 0%;
+    }
+}
+
+@keyframes yOverflow {
+    0% {
+        overflow-y: hidden;
+    }
+    99% {
+        overflow-y: hidden;
+    }
+    100% {
+        overflow-y: scroll;
+    }
+}
+
+@media (max-width: $screen-break-medium) { 
+
+    #file-mockup {
+        min-height: 700px;
+        max-width: 90%;
+    }
+
+}
