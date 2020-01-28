@@ -841,4 +841,50 @@ body {
   transition: bottom 0.1s ease-out, transform 0.22s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1);
   transition: bottom 0.1s ease-out, transform 0.22s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1), -webkit-transform 0.22s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1);
 }
+
+#cv-overlay {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  -webkit-transform: scaleY(0);
+          transform: scaleY(0);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(#2f016b), to(#6100FF));
+  background-image: linear-gradient(to bottom right, #2f016b, #6100FF);
+  z-index: 999;
+  -webkit-transform-origin: bottom;
+          transform-origin: bottom;
+}
+
+.cv-transition {
+  -webkit-animation: 0.5s cubic-bezier(0.21, 0.6, 0.6, 1) 0s 1 cv-transition-anim;
+          animation: 0.5s cubic-bezier(0.21, 0.6, 0.6, 1) 0s 1 cv-transition-anim;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+.disable-overflow {
+  overflow-y: hidden;
+}
+
+@-webkit-keyframes cv-transition-anim {
+  0% {
+    -webkit-transform: scaleY(0);
+            transform: scaleY(0);
+  }
+  100% {
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+  }
+}
+
+@keyframes cv-transition-anim {
+  0% {
+    -webkit-transform: scaleY(0);
+            transform: scaleY(0);
+  }
+  100% {
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+  }
+}
 /*# sourceMappingURL=index.css.map */

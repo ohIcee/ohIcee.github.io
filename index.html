@@ -11,10 +11,12 @@
 </head>
 <body>
 
+    <div id="cv-overlay"></div>
+
     <div class="mobile-menu-overlay">
         <ul>
             <li onclick="menu_item('home', true)">Marko Plaznik</li>
-            <li onclick="menu_item('cv', true)">CV</li>
+            <li class="cv-redirect" data-redirect="cv.html">CV</li>
             <li onclick="menu_item('projects', true)">Projects</li>
             <li onclick="menu_item('contact', true)">Contact Me</li>
         </ul>
@@ -23,7 +25,7 @@
     <nav>
         <ul>
             <li onclick="menu_item('home', false)" class="logo"> <a>MarkoPlaznik</a> </li>
-            <li onclick="menu_item('cv', true)">CV</li>
+            <li class="cv-redirect" data-redirect="cv.html">CV</li>
             <li> <a href="#projects-anchor">Projects</a> </li>
             <li onclick="menu_item('contact', false)" class="contact">
                 <a>Contact me</a>

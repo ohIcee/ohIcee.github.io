@@ -9,6 +9,18 @@ particlesJS.load('particles-js', 'assets/particlesjs-config.json', function() {
     console.log('callback - particles.js config loaded');
 });
 
+document.body.addEventListener('click', function(e){
+    var target = e.target;
+    if(target.classList.contains('cv-redirect')) {
+        document.getElementById("cv-overlay").classList.add('cv-transition');
+        document.getElementsByTagName("body")[0].classList.add('disable-overflow');
+        setTimeout(function() {
+            if(target.dataset) window.location = target.dataset.redirect;
+            else window.location = target.getAttribute('data-redirect');
+            }, 500);
+    }
+}, false);
+
 var createClickHandler = function(name) {
     return function() { 
 
