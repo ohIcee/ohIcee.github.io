@@ -12,7 +12,7 @@ particlesJS.load('particles-js', 'assets/particlesjs-config.json', function() {
 document.body.addEventListener('click', function(e){
     var target = e.target;
     if(target.classList.contains('cv-redirect')) {
-        document.getElementById("cv-overlay").classList.add('cv-transition');
+        document.getElementById("cv-overlay").classList.add('transition-to-cv');
         document.getElementsByTagName("body")[0].classList.add('disable-overflow');
         setTimeout(function() {
             if(target.dataset) window.location = target.dataset.redirect;
@@ -44,4 +44,10 @@ for(var i = 0; i < projects.length; i++)
    var projName = projects[i].id;
 
    projects[i].onclick = createClickHandler(projName);
+}
+
+let params = new URLSearchParams(location.search);
+if (params.get('sender') != null) {
+    window.history.replaceState({}, document.title, "/" + "index.html");
+    document.getElementById('cv-overlay').classList.add('transition-from-cv');
 }

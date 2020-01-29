@@ -1,5 +1,5 @@
 $screen-break-xsmall: 376px;
-$screen-break-small: 435px;
+$screen-break-small: 500px;
 $screen-break-medium: 902px;
 $screen-break-large: 1191px;
 $screen-break-xlarge: 1400px;
@@ -40,6 +40,7 @@ html, body {
     transform: translateX(-50%);
     animation: 1s cubic-bezier(.21,.6,.6,1) 0s 1 slideInForm;
     overflow: hidden;
+    transform-origin: bottom;
 
     h1 {
         margin-left: 40px;
@@ -114,6 +115,24 @@ html, body {
     }
 }
 
+.hide-mockup {
+    animation-fill-mode: forwards;
+    animation: 1s cubic-bezier(.21,.6,.6,1) 0s 1 slideOutForm !important;
+}
+
+.disable-overflow {
+    overflow-y: hidden;
+}
+
+@keyframes slideOutForm {
+    0% {
+        bottom: 0%;
+    }
+    100% {
+        bottom: -100%;
+    }
+}
+
 @keyframes slideInForm {
     0% {
       bottom: -100%;
@@ -138,8 +157,22 @@ html, body {
 @media (max-width: $screen-break-medium) { 
 
     #file-mockup {
-        min-height: 700px;
         max-width: 90%;
+    }
+
+}
+
+@media (max-width: $screen-break-small) { 
+
+    #file-mockup {
+        .button {
+            &.slovenian,
+            &.english {
+                max-width: 80%;
+                display: block;
+                margin: 15px 40px;
+            }
+        }
     }
 
 }

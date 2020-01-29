@@ -53,6 +53,22 @@ section#about {
         p {
             font-size: $text-secondary-size;
         }
+
+        button {
+            background: none;
+            border: none;
+            color: white;
+            padding: 10px 40px;
+            font-size: $text-secondary-size;
+            cursor: pointer;
+            background-color: rgba($secondary-color, 0.3);
+            position: relative;
+            transition-duration: .3s;
+
+            &:hover {
+                box-shadow: inset 0 -3.25em 0 0 $secondary-color;
+            }
+        }
     }
 
     .right-side {

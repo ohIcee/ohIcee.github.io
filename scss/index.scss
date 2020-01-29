@@ -314,11 +314,15 @@ body {
     background-image: linear-gradient(to bottom right, #2f016b, #6100FF);
     z-index: 999;
     transform-origin: bottom;
+    animation-fill-mode: forwards !important;
 }
 
-.cv-transition {
-    animation: .5s cubic-bezier(.21,.6,.6,1) 0s 1 cv-transition-anim;
-    animation-fill-mode: forwards;
+.transition-from-cv {
+    animation: .5s cubic-bezier(.21,.6,.6,1) 0s 1 hide-cv-overlay;
+}
+
+.transition-to-cv {
+    animation: .5s cubic-bezier(.21,.6,.6,1) 0s 1 cv-transition-anim !important;
 }
 
 .disable-overflow {
@@ -332,5 +336,15 @@ body {
 
     100% {
         transform: scaleY(1);
+    }
+}
+
+@keyframes hide-cv-overlay {
+    0% {
+        transform: scaleY(1);
+    }
+
+    100% {
+        transform: scaleY(0);
     }
 }

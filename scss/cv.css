@@ -41,6 +41,8 @@ html, body {
   -webkit-animation: 1s cubic-bezier(0.21, 0.6, 0.6, 1) 0s 1 slideInForm;
           animation: 1s cubic-bezier(0.21, 0.6, 0.6, 1) 0s 1 slideInForm;
   overflow: hidden;
+  -webkit-transform-origin: bottom;
+          transform-origin: bottom;
 }
 
 #file-mockup h1 {
@@ -115,6 +117,35 @@ html, body {
   left: 34px;
 }
 
+.hide-mockup {
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+  -webkit-animation: 1s cubic-bezier(0.21, 0.6, 0.6, 1) 0s 1 slideOutForm !important;
+          animation: 1s cubic-bezier(0.21, 0.6, 0.6, 1) 0s 1 slideOutForm !important;
+}
+
+.disable-overflow {
+  overflow-y: hidden;
+}
+
+@-webkit-keyframes slideOutForm {
+  0% {
+    bottom: 0%;
+  }
+  100% {
+    bottom: -100%;
+  }
+}
+
+@keyframes slideOutForm {
+  0% {
+    bottom: 0%;
+  }
+  100% {
+    bottom: -100%;
+  }
+}
+
 @-webkit-keyframes slideInForm {
   0% {
     bottom: -100%;
@@ -159,8 +190,15 @@ html, body {
 
 @media (max-width: 902px) {
   #file-mockup {
-    min-height: 700px;
     max-width: 90%;
+  }
+}
+
+@media (max-width: 500px) {
+  #file-mockup .button.slovenian, #file-mockup .button.english {
+    max-width: 80%;
+    display: block;
+    margin: 15px 40px;
   }
 }
 /*# sourceMappingURL=cv.css.map */

@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Marko Plaznik</title>
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./scss/cv.css">
+    <link rel="stylesheet" href="./scss/cv.css?v=1.1">
     <link rel="stylesheet" href="./vendor/animate.css">
 </head>
 <body>
@@ -27,12 +27,12 @@
             <a href="assets/CV_Slovenian.pdf" target="_blank" class="button slovenian">Slovenska različica</a>
             <a href="assets/CV_English.pdf" target="_blank" class="button english">English Version</a>
             <br><br>
-            <button onclick="window.location.href='index.html'" class="button home"></button>
+            <button data-redirect="index.html?sender=cv" class="button home"></button>
     
         </div>
     </div>
 
     
-
+    <script src="./js/cv_script.js"></script>
 </body>
 </html>
