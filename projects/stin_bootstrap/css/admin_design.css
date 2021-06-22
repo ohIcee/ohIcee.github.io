@@ -1,9 +1,0 @@
-#novica-remove-success,
-#referenca-remove-success {
-  display: none;
-}
-
-a:hover:not(.header):not(.rslides_tabs li a) {
-  color: black !important;
-  padding-left: 10px;
-}
