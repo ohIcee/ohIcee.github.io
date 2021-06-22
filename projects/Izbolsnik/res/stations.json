@@ -1,0 +1,4956 @@
+[{
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f17e"
+  },
+  "location": "Andraž nad Polzelo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f17f"
+  },
+  "location": "Andraž nad Polzelo K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f180"
+  },
+  "location": "Andraž nad Polzelo Poznič"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f181"
+  },
+  "location": "Andraž nad Polzelo vrh"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f182"
+  },
+  "location": "Ankaran K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f183"
+  },
+  "location": "Apnenik pri V.Trnu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f184"
+  },
+  "location": "Arclin"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f185"
+  },
+  "location": "Arclin K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f186"
+  },
+  "location": "Ardro pri Raki"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f187"
+  },
+  "location": "Arja vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f188"
+  },
+  "location": "Arja vas AC"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f189"
+  },
+  "location": "Arnovo selo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f18a"
+  },
+  "location": "Artiče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f18b"
+  },
+  "location": "Arto"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f18c"
+  },
+  "location": "Atomske Toplice Autocamp"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f18d"
+  },
+  "location": "Atomske toplice"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f18e"
+  },
+  "location": "Babna Brda Čakš"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f18f"
+  },
+  "location": "Babna Gora/Žusmu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f190"
+  },
+  "location": "Barbara"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f191"
+  },
+  "location": "Bauh (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f192"
+  },
+  "location": "Begant"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f193"
+  },
+  "location": "Bele Vode Razpodovnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f194"
+  },
+  "location": "Beli Potok Laznik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f195"
+  },
+  "location": "Bezina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f196"
+  },
+  "location": "Bezovica/Vojniku"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f197"
+  },
+  "location": "Bistrica ob Sotli"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f198"
+  },
+  "location": "Bistrica/Lesičnem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f199"
+  },
+  "location": "Bistrica/Selnici"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f19a"
+  },
+  "location": "Blagovica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f19b"
+  },
+  "location": "Blanca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f19c"
+  },
+  "location": "Blanca ŽP"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f19d"
+  },
+  "location": "Boharina Borlak"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f19e"
+  },
+  "location": "Boharina Padežnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f19f"
+  },
+  "location": "Boharina Tijek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1a0"
+  },
+  "location": "Bohova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1a1"
+  },
+  "location": "Boštanj K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1a2"
+  },
+  "location": "Boštanj Tuš NE UPORABI"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1a3"
+  },
+  "location": "Boštanj graščina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1a4"
+  },
+  "location": "Boštanj most"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1a5"
+  },
+  "location": "Boštjan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1a6"
+  },
+  "location": "Bele vode Razpodovnik(NE UPORABI)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1a7"
+  },
+  "location": "Bočna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1a8"
+  },
+  "location": "Brančurnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1a9"
+  },
+  "location": "Braslovče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1aa"
+  },
+  "location": "Brestanica K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ab"
+  },
+  "location": "Brestanica Kunej"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ac"
+  },
+  "location": "Bresternica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ad"
+  },
+  "location": "Brezina K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ae"
+  },
+  "location": "Brezje pri Rogatcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1af"
+  },
+  "location": "Brezje pri Senušah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1b0"
+  },
+  "location": "Brezje/Dovškem Abram"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1b1"
+  },
+  "location": "Brezje/Raki"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1b2"
+  },
+  "location": "Brezje/Sv.Štefanu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1b3"
+  },
+  "location": "Brezno/Hrastniku"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1b4"
+  },
+  "location": "Brezno/Hrastniku Selič"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1b5"
+  },
+  "location": "Brezno/Radljah ob Dravi"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1b6"
+  },
+  "location": "Brezova/Vojniku"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1b7"
+  },
+  "location": "Brezovec pri Rogatcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1b8"
+  },
+  "location": "Brezovica (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1b9"
+  },
+  "location": "Brežice market"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ba"
+  },
+  "location": "Brežice stad."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1bb"
+  },
+  "location": "Brnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1bc"
+  },
+  "location": "Brestanica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1bd"
+  },
+  "location": "Brode/Gabrkah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1be"
+  },
+  "location": "Brode/Vranskem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1bf"
+  },
+  "location": "Bukovska vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1c0"
+  },
+  "location": "Bučka Remic"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1c1"
+  },
+  "location": "Caravaning"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1c2"
+  },
+  "location": "Celje AP"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1c3"
+  },
+  "location": "Celje Celeia (NE UPORABI)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1c4"
+  },
+  "location": "Celje Celeiapark"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1c5"
+  },
+  "location": "Celje Cesta na grad K."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1c6"
+  },
+  "location": "Celje Cesta na grad bife"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1c7"
+  },
+  "location": "Celje Dečkova GD"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1c8"
+  },
+  "location": "Celje Dečkova Š"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1c9"
+  },
+  "location": "Celje Glazija"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ca"
+  },
+  "location": "Celje Kersnikova bol."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1cb"
+  },
+  "location": "Celje Kladivar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1cc"
+  },
+  "location": "Celje Lava"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1cd"
+  },
+  "location": "Celje Lava most"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ce"
+  },
+  "location": "Celje Ložnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1cf"
+  },
+  "location": "Celje Marib.c.Interspar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1d0"
+  },
+  "location": "Celje Marib.c.trg."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1d1"
+  },
+  "location": "Celje Mercator center "
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1d2"
+  },
+  "location": "Bučka"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1d3"
+  },
+  "location": "Celje Nova vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1d4"
+  },
+  "location": "Celje Nova vas K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1d5"
+  },
+  "location": "Celje Nova vas Lidl. "
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1d6"
+  },
+  "location": "Celje Podjavorškova ul."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1d7"
+  },
+  "location": "Celje Selce tran."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1d8"
+  },
+  "location": "Celje Zavodna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1d9"
+  },
+  "location": "Celje pod gradom m."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1da"
+  },
+  "location": "Celje Čopova Cetis"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1db"
+  },
+  "location": "Celje Čopova tran."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1dc"
+  },
+  "location": "Cerovec/Šmarju/Jel. "
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1dd"
+  },
+  "location": "Cesta/Krškem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1de"
+  },
+  "location": "Ceste pri Rogatcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1df"
+  },
+  "location": "Cezlak K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1e0"
+  },
+  "location": "Cigonca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1e1"
+  },
+  "location": "Cirkovce/Vel.Jandrog"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1e2"
+  },
+  "location": "Cirkovce/Vel.Pocajt"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1e3"
+  },
+  "location": "D.Maharovec"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1e4"
+  },
+  "location": "D.Prekopa"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1e5"
+  },
+  "location": "D.Radulje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1e6"
+  },
+  "location": "D.Radulje K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1e7"
+  },
+  "location": "D.vas pri Krškem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1e8"
+  },
+  "location": "Celje Nova vas trg."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1e9"
+  },
+  "location": "D.vas/Preboldu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ea"
+  },
+  "location": "D.vas/Preboldu zahod"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1eb"
+  },
+  "location": "Debro Rozman"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ec"
+  },
+  "location": "Dekmanca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ed"
+  },
+  "location": "Divača"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ee"
+  },
+  "location": "Dob/Domžalah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ef"
+  },
+  "location": "Dobja vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1f0"
+  },
+  "location": "Dobje/Planini"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1f1"
+  },
+  "location": "Dobovec pri Rogatcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1f2"
+  },
+  "location": "Dobovec pri Rogatcu G"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1f3"
+  },
+  "location": "Dobrava/Škocjanu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1f4"
+  },
+  "location": "Dobrina/Žetalah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1f5"
+  },
+  "location": "Dobrina/Žusmu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1f6"
+  },
+  "location": "Dobriška vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1f7"
+  },
+  "location": "Dobrna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1f8"
+  },
+  "location": "Dobrna Arlič"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1f9"
+  },
+  "location": "Dobrna hotel"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1fa"
+  },
+  "location": "Dobrna zdravilišče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1fb"
+  },
+  "location": "Dobruška vas AC"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1fc"
+  },
+  "location": "Dol pri Hrastniku"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1fd"
+  },
+  "location": "Dol.Raka"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1fe"
+  },
+  "location": "Dekani"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f1ff"
+  },
+  "location": "Dol/G.Gradu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f200"
+  },
+  "location": "Dol/G.Gradu Rogačnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f201"
+  },
+  "location": "Domžale K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f202"
+  },
+  "location": "Draga/Škocjanu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f203"
+  },
+  "location": "Drama"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f204"
+  },
+  "location": "Dramlje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f205"
+  },
+  "location": "Dramlje Ratajc"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f206"
+  },
+  "location": "Dravograd"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f207"
+  },
+  "location": "Dravograd BČ"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f208"
+  },
+  "location": "Dravograd trg"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f209"
+  },
+  "location": "Dravče (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f20a"
+  },
+  "location": "Draža vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f20b"
+  },
+  "location": "Draža vas Prah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f20c"
+  },
+  "location": "Drešinja vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f20d"
+  },
+  "location": "Drožanje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f20e"
+  },
+  "location": "Fala HE"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f20f"
+  },
+  "location": "Florjan/Šoš.Grebenšek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f210"
+  },
+  "location": "Florjan/Šoš.K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f211"
+  },
+  "location": "Florjan/Šoš.Mostnar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f212"
+  },
+  "location": "Florjan/Šoš.lipa"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f213"
+  },
+  "location": "Fram K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f214"
+  },
+  "location": "Draga/Kalobju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f215"
+  },
+  "location": "Frankolovo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f216"
+  },
+  "location": "Frankolovo most"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f217"
+  },
+  "location": "Fužine/Vitanju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f218"
+  },
+  "location": "G.Grad"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f219"
+  },
+  "location": "G.Grad sp.trg"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f21a"
+  },
+  "location": "G.Gradišče pri Šentj."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f21b"
+  },
+  "location": "Gaberke"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f21c"
+  },
+  "location": "Gaberke K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f21d"
+  },
+  "location": "Gaberke Koželjnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f21e"
+  },
+  "location": "Gabrijele"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f21f"
+  },
+  "location": "Gabrje/Boštanju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f220"
+  },
+  "location": "Gabrje/Rogatcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f221"
+  },
+  "location": "Galicija"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f222"
+  },
+  "location": "Gladomes"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f223"
+  },
+  "location": "Globoče Loka (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f224"
+  },
+  "location": "Gmajna/Raki"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f225"
+  },
+  "location": "Gora/Krškem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f226"
+  },
+  "location": "Gora/Krškem Levičar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f227"
+  },
+  "location": "Gora/Krškem vrh"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f228"
+  },
+  "location": "Gorenje pri Zrečah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f229"
+  },
+  "location": "Gorenje/Paki"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f22a"
+  },
+  "location": "G.Brezovica/Šentj."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f22b"
+  },
+  "location": "Gorica pri Slivnici"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f22c"
+  },
+  "location": "Gorica pri Šmartnem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f22d"
+  },
+  "location": "Gorica pri Šmartnem Kož."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f22e"
+  },
+  "location": "Gorica pri Šmartnem kap."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f22f"
+  },
+  "location": "Gorica/Cerkljah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f230"
+  },
+  "location": "Gorica/Socki"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f231"
+  },
+  "location": "Gorica/Vel."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f232"
+  },
+  "location": "Gorica/Vel.K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f233"
+  },
+  "location": "Goričica/Šentjurju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f234"
+  },
+  "location": "Gorjane"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f235"
+  },
+  "location": "Gortina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f236"
+  },
+  "location": "Gortina sušilnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f237"
+  },
+  "location": "Gortina Š"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f238"
+  },
+  "location": "Gradišče/Sevnici"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f239"
+  },
+  "location": "Gradišče/Sevnici Vidmar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f23a"
+  },
+  "location": "Gradišče/Vojniku (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f23b"
+  },
+  "location": "Gračič"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f23c"
+  },
+  "location": "Gračič Lamut"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f23d"
+  },
+  "location": "Gračnica/Planini"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f23e"
+  },
+  "location": "Gračnica/Rim.T."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f23f"
+  },
+  "location": "Griže/Žalcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f240"
+  },
+  "location": "Gorica pri Šmartnem Preš."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f241"
+  },
+  "location": "Griže/Žalcu K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f242"
+  },
+  "location": "Griže/Žalcu Š (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f243"
+  },
+  "location": "Gruska jama"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f244"
+  },
+  "location": "Grče/Ponikvi/Žalcu (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f245"
+  },
+  "location": "Hajnsko"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f246"
+  },
+  "location": "Havaji"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f247"
+  },
+  "location": "Henina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f248"
+  },
+  "location": "Hotemež Strnad"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f249"
+  },
+  "location": "Hramše K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f24a"
+  },
+  "location": "Hrastje pri Cerkljah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f24b"
+  },
+  "location": "Hrastje/Bistrici ob Sotli"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f24c"
+  },
+  "location": "Hrastje/Žusmu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f24d"
+  },
+  "location": "Hrastje/Žusmu kap."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f24e"
+  },
+  "location": "Hrastnik Birtič"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f24f"
+  },
+  "location": "Hrastnik K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f250"
+  },
+  "location": "Hrastnik Logar ŽP"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f251"
+  },
+  "location": "Hrastnik OB"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f252"
+  },
+  "location": "Hrastnik OŠ (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f253"
+  },
+  "location": "Hrastnik Pod skalo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f254"
+  },
+  "location": "Hrastnik Podkraj"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f255"
+  },
+  "location": "Hrastnik obr."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f256"
+  },
+  "location": "Gržeča vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f257"
+  },
+  "location": "Hrastnik rudnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f258"
+  },
+  "location": "Hrastnik stek."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f259"
+  },
+  "location": "Hrastovec/Vel."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f25a"
+  },
+  "location": "Hrastovec/Vel.K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f25b"
+  },
+  "location": "Hrastovec/Vel.vrh"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f25c"
+  },
+  "location": "Hrašče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f25d"
+  },
+  "location": "Hrenova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f25e"
+  },
+  "location": "Hrvaški Brod"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f25f"
+  },
+  "location": "Igla"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f260"
+  },
+  "location": "Ilovca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f261"
+  },
+  "location": "Ilovca Lipovšek (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f262"
+  },
+  "location": "Impoljca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f263"
+  },
+  "location": "Impoljca Jerše"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f264"
+  },
+  "location": "Impoljca Češnjovar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f265"
+  },
+  "location": "Ivandol"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f266"
+  },
+  "location": "Ivenca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f267"
+  },
+  "location": "Izola"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f268"
+  },
+  "location": "Jablanica/Boštanju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f269"
+  },
+  "location": "Jagnjenica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f26a"
+  },
+  "location": "Jagnjenica Jež"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f26b"
+  },
+  "location": "Jagnjenica Pivec"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f26c"
+  },
+  "location": "Hrastovec/Vel.Cerkovnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f26d"
+  },
+  "location": "Jakob/Šentj.Moškatevc"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f26e"
+  },
+  "location": "Jakob/Šentj.Salobir"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f26f"
+  },
+  "location": "Jamnica odcep"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f270"
+  },
+  "location": "Jankova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f271"
+  },
+  "location": "Janževa Gora"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f272"
+  },
+  "location": "Javnik Čas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f273"
+  },
+  "location": "Javorje/Slivnici"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f274"
+  },
+  "location": "Javornik K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f275"
+  },
+  "location": "Jelovec/Boštanju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f276"
+  },
+  "location": "Jelševica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f277"
+  },
+  "location": "Jernej pri Ločah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f278"
+  },
+  "location": "Jernej pri Ločah K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f279"
+  },
+  "location": "Jezerce Kovač"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f27a"
+  },
+  "location": "Ješovec/Šmarju/Jel."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f27b"
+  },
+  "location": "Kalce Naklo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f27c"
+  },
+  "location": "Kalce/Krškem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f27d"
+  },
+  "location": "Kališovec Grbič"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f27e"
+  },
+  "location": "Kalobje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f27f"
+  },
+  "location": "Kamenče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f280"
+  },
+  "location": "Kamna Gora"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f281"
+  },
+  "location": "Kamna Gora Iskrač"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f282"
+  },
+  "location": "Janeče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f283"
+  },
+  "location": "Kamna Gora Markular"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f284"
+  },
+  "location": "Kamnica/Mar.K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f285"
+  },
+  "location": "Kapla"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f286"
+  },
+  "location": "Kasaze"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f287"
+  },
+  "location": "Kasaze KIL"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f288"
+  },
+  "location": "Kasaze Mirosan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f289"
+  },
+  "location": "Kastelec K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f28a"
+  },
+  "location": "Kavče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f28b"
+  },
+  "location": "Kladje/Blanco K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f28c"
+  },
+  "location": "Kokarje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f28d"
+  },
+  "location": "Kompole toplarna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f28e"
+  },
+  "location": "Kompolje/Savi"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f28f"
+  },
+  "location": "Konjiška vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f290"
+  },
+  "location": "Konjiška vas Leskovar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f291"
+  },
+  "location": "Koprivna (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f292"
+  },
+  "location": "Koprivnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f293"
+  },
+  "location": "Kor.vas/Zrečah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f294"
+  },
+  "location": "Koritnica/Raki"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f295"
+  },
+  "location": "Koroška-Poštna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f296"
+  },
+  "location": "Kostanjek/Krškem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f297"
+  },
+  "location": "Kostanjevica na Krki"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f298"
+  },
+  "location": "Kaplja vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f299"
+  },
+  "location": "Kostanjevica na Krki Žol."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f29a"
+  },
+  "location": "Kotlje žaga"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f29b"
+  },
+  "location": "Kozina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f29c"
+  },
+  "location": "Košnica/Celju Cvetrežnik (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f29d"
+  },
+  "location": "Košnica/Celju Igrišče (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f29e"
+  },
+  "location": "Košnica/Celju Križ (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f29f"
+  },
+  "location": "Košnica/Prevorju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2a0"
+  },
+  "location": "Krašnja"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2a1"
+  },
+  "location": "Kristan Vrh"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2a2"
+  },
+  "location": "Krivica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2a3"
+  },
+  "location": "Križ/G.Gradu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2a4"
+  },
+  "location": "Križan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2a5"
+  },
+  "location": "Križe/Pečicah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2a6"
+  },
+  "location": "Križe/Senušah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2a7"
+  },
+  "location": "Krnice pri Šavni Peči (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2a8"
+  },
+  "location": "Kronovo AC"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2a9"
+  },
+  "location": "Kropa/G.Gradu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2aa"
+  },
+  "location": "Krška vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ab"
+  },
+  "location": "Krško Galerija"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ac"
+  },
+  "location": "Krško Resa"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ad"
+  },
+  "location": "Krško St.vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ae"
+  },
+  "location": "Košnica/Celju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2af"
+  },
+  "location": "Krško blag.center"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2b0"
+  },
+  "location": "Kurja vas/Senušah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2b1"
+  },
+  "location": "Ladna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2b2"
+  },
+  "location": "Lahomno Jovan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2b3"
+  },
+  "location": "Lahomno K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2b4"
+  },
+  "location": "Lastnič"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2b5"
+  },
+  "location": "Latkova vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2b6"
+  },
+  "location": "Latkova vas K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2b7"
+  },
+  "location": "Latkova vas sušil."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2b8"
+  },
+  "location": "Laze pri Boštanju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2b9"
+  },
+  "location": "Laze/Velenju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ba"
+  },
+  "location": "Laško"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2bb"
+  },
+  "location": "Laško zdrav."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2bc"
+  },
+  "location": "Laško Š"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2bd"
+  },
+  "location": "Laško Šuhelj"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2be"
+  },
+  "location": "Laže K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2bf"
+  },
+  "location": "Lačja vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2c0"
+  },
+  "location": "Lačna Gora"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2c1"
+  },
+  "location": "Ledinščica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2c2"
+  },
+  "location": "Lekmarje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2c3"
+  },
+  "location": "Lemberg nad Dobrno"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2c4"
+  },
+  "location": "Lahomno Bobek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2c5"
+  },
+  "location": "Lesjak (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2c6"
+  },
+  "location": "Leskovca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2c7"
+  },
+  "location": "Leskovec pri Krškem grad"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2c8"
+  },
+  "location": "Leše/Prevaljah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2c9"
+  },
+  "location": "Libna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ca"
+  },
+  "location": "Lipoglav/Boštanju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2cb"
+  },
+  "location": "Ličenca K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2cc"
+  },
+  "location": "Ljubečna GD"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2cd"
+  },
+  "location": "Ljubečna Mravlje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ce"
+  },
+  "location": "Ljubečna Opekarna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2cf"
+  },
+  "location": "Ljubečna Podpečan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2d0"
+  },
+  "location": "Ljubečna Ropan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2d1"
+  },
+  "location": "Ljubečna nadvoz"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2d2"
+  },
+  "location": "Ljubečna Šumer"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2d3"
+  },
+  "location": "Ljubija"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2d4"
+  },
+  "location": "Ljubljana AP"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2d5"
+  },
+  "location": "Ljubljana Dol.most obr."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2d6"
+  },
+  "location": "Ljubljana Hajdrihova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2d7"
+  },
+  "location": "Ljubljana Tobačna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2d8"
+  },
+  "location": "Ljubljana stad."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2d9"
+  },
+  "location": "Ljubljana Črnuče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2da"
+  },
+  "location": "Letuš Zg.Hrašan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2db"
+  },
+  "location": "Ljubnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2dc"
+  },
+  "location": "Ljubno/Savinji"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2dd"
+  },
+  "location": "Ljubno/Savinji Alpe"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2de"
+  },
+  "location": "Log.dolina Hotel"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2df"
+  },
+  "location": "Log.dolina Sestre"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2e0"
+  },
+  "location": "Log.dolina slap"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2e1"
+  },
+  "location": "Log/Boštanju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2e2"
+  },
+  "location": "Loka pri Zid.mostu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2e3"
+  },
+  "location": "Loka/Žusmu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2e4"
+  },
+  "location": "Loka/Žusmu trg."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2e5"
+  },
+  "location": "Lokarje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2e6"
+  },
+  "location": "Lokavec/Rim.t."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2e7"
+  },
+  "location": "Lokavec/Rim.t.Močnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2e8"
+  },
+  "location": "Loke/Gračnici/Planini"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2e9"
+  },
+  "location": "Loke/Planini"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ea"
+  },
+  "location": "Loke/Ponikvi/Žalcu (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2eb"
+  },
+  "location": "Lokovica/Holmec"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ec"
+  },
+  "location": "Lokovica/Holmec Kralj"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ed"
+  },
+  "location": "Lokovica/Holmec rudnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ee"
+  },
+  "location": "Lokovica/Vel."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ef"
+  },
+  "location": "Lokovica/Vel.K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2f0"
+  },
+  "location": "Ljubno/Savinji Rore"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2f1"
+  },
+  "location": "Lončarjev Dol"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2f2"
+  },
+  "location": "Lončarjev Dol Gmajna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2f3"
+  },
+  "location": "Lončarjev Dol Romih"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2f4"
+  },
+  "location": "Lopata/Celju K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2f5"
+  },
+  "location": "Lopata/Celju Šuperger"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2f6"
+  },
+  "location": "Loška Gora"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2f7"
+  },
+  "location": "Ložnica pri Žalcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2f8"
+  },
+  "location": "Ložnica/Andražu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2f9"
+  },
+  "location": "Ložnica/Žalcu/Škafarjev hrib (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2fa"
+  },
+  "location": "Ložnica/Žalcu/Škafarjev hrib 1 (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2fb"
+  },
+  "location": "Loče pri Poljčanah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2fc"
+  },
+  "location": "Ločendol/Rog.Slatini"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2fd"
+  },
+  "location": "Ločica ob Savinji"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2fe"
+  },
+  "location": "Ločica pri Vranskem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f2ff"
+  },
+  "location": "Ločnec Metličar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f300"
+  },
+  "location": "Lucija"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f301"
+  },
+  "location": "Lucija H"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f302"
+  },
+  "location": "Lukovica pri Domžalah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f303"
+  },
+  "location": "Lutrje Hrovatič"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f304"
+  },
+  "location": "Lutrje Plahuta"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f305"
+  },
+  "location": "Lušečka vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f306"
+  },
+  "location": "Lopaca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f307"
+  },
+  "location": "Luče ob Savinji"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f308"
+  },
+  "location": "Luče ob Savinji Stoglej"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f309"
+  },
+  "location": "M.Braslovče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f30a"
+  },
+  "location": "M.Breza Guček"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f30b"
+  },
+  "location": "M.Breza Slatina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f30c"
+  },
+  "location": "M.Cikava"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f30d"
+  },
+  "location": "M.Grahovše"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f30e"
+  },
+  "location": "M.Kamen"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f30f"
+  },
+  "location": "M.Kamen Bukovinski"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f310"
+  },
+  "location": "M.Mraševo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f311"
+  },
+  "location": "M.Pirešica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f312"
+  },
+  "location": "M.Raztez"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f313"
+  },
+  "location": "M.Slatnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f314"
+  },
+  "location": "M.Vrh/Brežicah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f315"
+  },
+  "location": "Malahorna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f316"
+  },
+  "location": "Malkovec"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f317"
+  },
+  "location": "Marholče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f318"
+  },
+  "location": "Maribor AP"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f319"
+  },
+  "location": "Maribor ELKO"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f31a"
+  },
+  "location": "Maribor Fontana"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f31b"
+  },
+  "location": "Maribor Glavni trg"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f31c"
+  },
+  "location": "M.Breza Gorišek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f31d"
+  },
+  "location": "Maribor Jeklotehna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f31e"
+  },
+  "location": "Maribor Prim.ul."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f31f"
+  },
+  "location": "Maribor STŠ"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f320"
+  },
+  "location": "Maribor Svetozarevska"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f321"
+  },
+  "location": "Maribor Vema"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f322"
+  },
+  "location": "Maribor Vrbanska ul."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f323"
+  },
+  "location": "Maribor tov. TAM"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f324"
+  },
+  "location": "Maribor tov.Himo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f325"
+  },
+  "location": "Maribor tov.Tipo Turn.ul."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f326"
+  },
+  "location": "Maribor čolnarna MTT"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f327"
+  },
+  "location": "Mariborski otok HE"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f328"
+  },
+  "location": "Marija Dobje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f329"
+  },
+  "location": "Marija Gradec"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f32a"
+  },
+  "location": "Marno"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f32b"
+  },
+  "location": "Marof/Jurkloštru"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f32c"
+  },
+  "location": "Marof/Lončarjevem Dolu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f32d"
+  },
+  "location": "Marof/Sevnici"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f32e"
+  },
+  "location": "Matke"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f32f"
+  },
+  "location": "Matke GD"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f330"
+  },
+  "location": "Mačkovec/N.mestu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f331"
+  },
+  "location": "Mačkovec/N.mestu AC"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f332"
+  },
+  "location": "Maribor Slavija"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f333"
+  },
+  "location": "Merkačev mlin"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f334"
+  },
+  "location": "Mestno pokopališče Celje (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f335"
+  },
+  "location": "Metleče Napotnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f336"
+  },
+  "location": "Mežica ND"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f337"
+  },
+  "location": "Migojnice Holobar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f338"
+  },
+  "location": "Mislinja"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f339"
+  },
+  "location": "Mislinja Jarek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f33a"
+  },
+  "location": "Mislinjska Dobrava"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f33b"
+  },
+  "location": "Mlada Gora"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f33c"
+  },
+  "location": "Mladje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f33d"
+  },
+  "location": "Mlače"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f33e"
+  },
+  "location": "Mrtovec Lisičje Jame"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f33f"
+  },
+  "location": "Mrzla Planina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f340"
+  },
+  "location": "Muta"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f341"
+  },
+  "location": "Muta sp.K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f342"
+  },
+  "location": "Nazarje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f343"
+  },
+  "location": "Nazarje BSH"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f344"
+  },
+  "location": "Nemška vas/Krškem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f345"
+  },
+  "location": "Nizka"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f346"
+  },
+  "location": "Nova Cerkev"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f347"
+  },
+  "location": "Nova Cerkev/Dobrni"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f348"
+  },
+  "location": "Mežica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f349"
+  },
+  "location": "Nova Cerkev/Dobrni K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f34a"
+  },
+  "location": "Nova Gora/Senušah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f34b"
+  },
+  "location": "Nova vas/Šentjurju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f34c"
+  },
+  "location": "Novo mesto Kandija"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f34d"
+  },
+  "location": "Novo mesto Ločna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f34e"
+  },
+  "location": "Novo mesto Žabja vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f34f"
+  },
+  "location": "Ojstriška vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f350"
+  },
+  "location": "Okonina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f351"
+  },
+  "location": "Olimje Halar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f352"
+  },
+  "location": "Oplotnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f353"
+  },
+  "location": "Opoka"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f354"
+  },
+  "location": "Orehovo Tuhtar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f355"
+  },
+  "location": "Orehovo Završnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f356"
+  },
+  "location": "Orehovo čuvajnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f357"
+  },
+  "location": "Orešje nad Sev.Kralj"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f358"
+  },
+  "location": "Orešje nad Sev.Ocvirk"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f359"
+  },
+  "location": "Orešje nad Sev.Pecelj"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f35a"
+  },
+  "location": "Orešje nad Sev.Pekel"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f35b"
+  },
+  "location": "Orešje nad Sevnico"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f35c"
+  },
+  "location": "Ostrožno/Celju Antloga"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f35d"
+  },
+  "location": "Ostrožno/Celju Fazarinc"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f35e"
+  },
+  "location": "Novna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f35f"
+  },
+  "location": "Ostrožno/Celju Irmančnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f360"
+  },
+  "location": "OŠ Prežihov Voranc (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f361"
+  },
+  "location": "OŠ Vuzenica (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f362"
+  },
+  "location": "Ožbalt"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f363"
+  },
+  "location": "Ožbalt HE"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f364"
+  },
+  "location": "Padeški vrh"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f365"
+  },
+  "location": "Padeški vrh Ramšak"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f366"
+  },
+  "location": "Padeški vrh Rotnet"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f367"
+  },
+  "location": "Paka/Vel."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f368"
+  },
+  "location": "Paka/Vel.Kovač"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f369"
+  },
+  "location": "Paka/Vel.Lampret"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f36a"
+  },
+  "location": "Paka/Vitanju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f36b"
+  },
+  "location": "Paka/Vitanju žaga"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f36c"
+  },
+  "location": "Pameče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f36d"
+  },
+  "location": "Pameče Fancat"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f36e"
+  },
+  "location": "Parižlje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f36f"
+  },
+  "location": "Paška vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f370"
+  },
+  "location": "Petelinjek/Ločah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f371"
+  },
+  "location": "Petelinjek/Ratežu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f372"
+  },
+  "location": "Pijavice"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f373"
+  },
+  "location": "Piran"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f374"
+  },
+  "location": "OŠ Črna (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f375"
+  },
+  "location": "Pirešica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f376"
+  },
+  "location": "Planina na Poh.Jurgo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f377"
+  },
+  "location": "Planina na Poh.Mah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f378"
+  },
+  "location": "Planina na Poh.Studen."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f379"
+  },
+  "location": "Planina na Poh.Vranjek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f37a"
+  },
+  "location": "Planina/Sev."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f37b"
+  },
+  "location": "Planina/Sev.K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f37c"
+  },
+  "location": "Planinska vas/Planini"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f37d"
+  },
+  "location": "Planinski Vrh/Planini"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f37e"
+  },
+  "location": "Pletovarje Kožuh"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f37f"
+  },
+  "location": "Pletovarje Peček"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f380"
+  },
+  "location": "Plešivec Boštjan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f381"
+  },
+  "location": "Plešivec Graška Gora"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f382"
+  },
+  "location": "Plešivec Grmada"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f383"
+  },
+  "location": "Plešivec Črna Gora"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f384"
+  },
+  "location": "Podgora/Galiciji K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f385"
+  },
+  "location": "Podgorje pod Čerinom kap."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f386"
+  },
+  "location": "Podgorje/Sev.Novak"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f387"
+  },
+  "location": "Podgorje/Sev.Pipan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f388"
+  },
+  "location": "Podgorje/Sev.Stopar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f389"
+  },
+  "location": "Podgorje/Sl.Gradcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f38a"
+  },
+  "location": "Planina na Poh.Marinšek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f38b"
+  },
+  "location": "Podgrad/Keblju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f38c"
+  },
+  "location": "Podjezerce Mravlje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f38d"
+  },
+  "location": "Podklanc"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f38e"
+  },
+  "location": "Podkraj/Vel.Pokop."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f38f"
+  },
+  "location": "Podlog Tara (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f390"
+  },
+  "location": "Podlubela"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f391"
+  },
+  "location": "Podpeca (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f392"
+  },
+  "location": "Podplat"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f393"
+  },
+  "location": "Podsreda"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f394"
+  },
+  "location": "Podvelka"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f395"
+  },
+  "location": "Podvelka Potočnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f396"
+  },
+  "location": "Podvrh Novak"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f397"
+  },
+  "location": "Polana pri Virštanju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f398"
+  },
+  "location": "Polana/Jurkloštru"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f399"
+  },
+  "location": "Polana/Lesičnem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f39a"
+  },
+  "location": "Polena"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f39b"
+  },
+  "location": "Poljana"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f39c"
+  },
+  "location": "Poljana Šurnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f39d"
+  },
+  "location": "Poljčane ŽP"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f39e"
+  },
+  "location": "Polzela Cimperman"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f39f"
+  },
+  "location": "Polzela Orešnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3a0"
+  },
+  "location": "Podkraj/Ponikvi pri Žalcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3a1"
+  },
+  "location": "Ponikva pri Žalcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3a2"
+  },
+  "location": "Ponikva/Grobelnem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3a3"
+  },
+  "location": "Ponikva/Grobelnem ŽP"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3a4"
+  },
+  "location": "Postojna LIV"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3a5"
+  },
+  "location": "Požnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3a6"
+  },
+  "location": "Požnica kam."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3a7"
+  },
+  "location": "Prapretno/Radečah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3a8"
+  },
+  "location": "Prapretno/Sevnični"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3a9"
+  },
+  "location": "Prekopa/Vranskem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3aa"
+  },
+  "location": "Prelasko"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ab"
+  },
+  "location": "Presladol"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ac"
+  },
+  "location": "Prevalje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ad"
+  },
+  "location": "Prevalje Fara"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ae"
+  },
+  "location": "Prevalje Flajmiž"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3af"
+  },
+  "location": "Prevalje Perzonali"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3b0"
+  },
+  "location": "Prevalje Peči"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3b1"
+  },
+  "location": "Prevorska vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3b2"
+  },
+  "location": "Prešna Loka"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3b3"
+  },
+  "location": "Prihova K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3b4"
+  },
+  "location": "Prihova Pri Nazarjah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3b5"
+  },
+  "location": "Pristava pri Leskovcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3b6"
+  },
+  "location": "Postojna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3b7"
+  },
+  "location": "Pristava/Mestinju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3b8"
+  },
+  "location": "Pristava/Vojniku"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3b9"
+  },
+  "location": "Pristava/Vojniku K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ba"
+  },
+  "location": "Proseniško Vapot"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3bb"
+  },
+  "location": "Prožinska vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3bc"
+  },
+  "location": "Prožinska vas G"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3bd"
+  },
+  "location": "Prušnja vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3be"
+  },
+  "location": "Puršnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3bf"
+  },
+  "location": "Radeče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3c0"
+  },
+  "location": "Radeče KORA"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3c1"
+  },
+  "location": "Radeče Metalles"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3c2"
+  },
+  "location": "Radeče Muflon"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3c3"
+  },
+  "location": "Radeče papirnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3c4"
+  },
+  "location": "Radeče ŽP"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3c5"
+  },
+  "location": "Radizel"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3c6"
+  },
+  "location": "Radizel 63"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3c7"
+  },
+  "location": "Radlje ob Dravi"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3c8"
+  },
+  "location": "Radmirje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3c9"
+  },
+  "location": "Radmirje K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ca"
+  },
+  "location": "Radmirje PTT"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3cb"
+  },
+  "location": "Radna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3cc"
+  },
+  "location": "Pristova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3cd"
+  },
+  "location": "Raduha"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ce"
+  },
+  "location": "Raduha Rogački most"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3cf"
+  },
+  "location": "Raka"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3d0"
+  },
+  "location": "Rakitovec/Slivnici"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3d1"
+  },
+  "location": "Ratanska vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3d2"
+  },
+  "location": "Ratež"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3d3"
+  },
+  "location": "Ravne na Kor."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3d4"
+  },
+  "location": "Ravne na Kor.Brdinje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3d5"
+  },
+  "location": "Ravne na Kor.Javornik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3d6"
+  },
+  "location": "Ravne na Kor.ZD"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3d7"
+  },
+  "location": "Ravne na Kor.gim."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3d8"
+  },
+  "location": "Ravne pri Zdolah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3d9"
+  },
+  "location": "Ravne/Šoš.K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3da"
+  },
+  "location": "Ravne/Šoš.Štajner"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3db"
+  },
+  "location": "Ravni"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3dc"
+  },
+  "location": "Ravno"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3dd"
+  },
+  "location": "Razdelj"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3de"
+  },
+  "location": "Razdrto K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3df"
+  },
+  "location": "Razdrto tri hiše"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3e0"
+  },
+  "location": "Razgor"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3e1"
+  },
+  "location": "Razprški most"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3e2"
+  },
+  "location": "Raka Šeško"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3e3"
+  },
+  "location": "Raztez Vrtača"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3e4"
+  },
+  "location": "Račica/Zid.mostu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3e5"
+  },
+  "location": "Reka/Laškim"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3e6"
+  },
+  "location": "Reka/Laškim Vodišek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3e7"
+  },
+  "location": "Reka/Laškim Vrbovšek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3e8"
+  },
+  "location": "Rečica ob Paki"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3e9"
+  },
+  "location": "Rečica/Savinji"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ea"
+  },
+  "location": "Rečica/Savinji K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3eb"
+  },
+  "location": "Rihtar Graben"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ec"
+  },
+  "location": "Rimske Toplice Šmarjeta"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ed"
+  },
+  "location": "Rimš Topol (NE OBSTAJA)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ee"
+  },
+  "location": "Rižana"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ef"
+  },
+  "location": "Rjavica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3f0"
+  },
+  "location": "Robanov kot Rogovilec"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3f1"
+  },
+  "location": "Rog.Slatina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3f2"
+  },
+  "location": "Rog.Slatina KORS"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3f3"
+  },
+  "location": "Rog.Slatina stek."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3f4"
+  },
+  "location": "Rogatec"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3f5"
+  },
+  "location": "Rogatec Š"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3f6"
+  },
+  "location": "Rogatnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3f7"
+  },
+  "location": "Roginska gorca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3f8"
+  },
+  "location": "Reka/Laškim Plahuta"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3f9"
+  },
+  "location": "Rogla"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3fa"
+  },
+  "location": "Rožno Kancijan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3fb"
+  },
+  "location": "Rudarjevo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3fc"
+  },
+  "location": "Rudnica Bah I"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3fd"
+  },
+  "location": "Rudnica K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3fe"
+  },
+  "location": "Ruta"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f3ff"
+  },
+  "location": "Sajevce"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f400"
+  },
+  "location": "Sedlarjevo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f401"
+  },
+  "location": "Sela pri Raki"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f402"
+  },
+  "location": "Sela/Sopoti"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f403"
+  },
+  "location": "Sela/Virštanju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f404"
+  },
+  "location": "Sele/Sl.Gradcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f405"
+  },
+  "location": "Sele/Sl.Gradcu Duler"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f406"
+  },
+  "location": "Sele/Sl.Gradcu klancu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f407"
+  },
+  "location": "Selnica ob Dravi"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f408"
+  },
+  "location": "Senovica Halerjev hrib"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f409"
+  },
+  "location": "Senovo Metalna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f40a"
+  },
+  "location": "Senovo Senica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f40b"
+  },
+  "location": "Senčna vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f40c"
+  },
+  "location": "Setlika"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f40d"
+  },
+  "location": "Sevnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f40e"
+  },
+  "location": "Rudnica Bah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f40f"
+  },
+  "location": "Sevnica Drožanjska"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f410"
+  },
+  "location": "Sevnica sejmišče"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f411"
+  },
+  "location": "Sevnica trg"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f412"
+  },
+  "location": "Silova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f413"
+  },
+  "location": "Simonov zaliv"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f414"
+  },
+  "location": "Skalna klet"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f415"
+  },
+  "location": "Skomarje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f416"
+  },
+  "location": "Skomarje K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f417"
+  },
+  "location": "Skomarje Kovše"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f418"
+  },
+  "location": "Skomarje Laznik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f419"
+  },
+  "location": "Skomarje tran."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f41a"
+  },
+  "location": "Skomarje Črešnar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f41b"
+  },
+  "location": "Skorno Vidmar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f41c"
+  },
+  "location": "Skorno Zapečnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f41d"
+  },
+  "location": "Sl.Bistrica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f41e"
+  },
+  "location": "Sl.Bistrica AC"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f41f"
+  },
+  "location": "Sl.Bistrica Leonardo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f420"
+  },
+  "location": "Sl.Bistrica Mercator"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f421"
+  },
+  "location": "Sl.Bistrica grad"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f422"
+  },
+  "location": "Sl.Gradec"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f423"
+  },
+  "location": "Sl.Gradec KZ"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f424"
+  },
+  "location": "Sevnica Šmarje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f425"
+  },
+  "location": "Sl.Gradec Murko"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f426"
+  },
+  "location": "Sl.Gradec Nama"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f427"
+  },
+  "location": "Sl.Gradec ŽP"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f428"
+  },
+  "location": "Slatina v Rožni dolini"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f429"
+  },
+  "location": "Slatina/Dobjem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f42a"
+  },
+  "location": "Slivnica pri Mar."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f42b"
+  },
+  "location": "Smednik AC"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f42c"
+  },
+  "location": "Socka"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f42d"
+  },
+  "location": "Socka Lednik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f42e"
+  },
+  "location": "Sodna vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f42f"
+  },
+  "location": "Solčava"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f430"
+  },
+  "location": "Solčava Lašekar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f431"
+  },
+  "location": "Solčava Oprešnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f432"
+  },
+  "location": "Sopota"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f433"
+  },
+  "location": "Soteska/Mozirju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f434"
+  },
+  "location": "Sp.Arnače"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f435"
+  },
+  "location": "Sp.Dolič Slapernik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f436"
+  },
+  "location": "Sp.Griže/Žalcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f437"
+  },
+  "location": "Sp.Grušovlje v Savinj.d  (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f438"
+  },
+  "location": "Sp.Hudinja"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f439"
+  },
+  "location": "Sp.Košnica/Prevorju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f43a"
+  },
+  "location": "Slake/Podčetrtku"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f43b"
+  },
+  "location": "Sp.Kraše"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f43c"
+  },
+  "location": "Sp.Laže"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f43d"
+  },
+  "location": "Sp.Laže Trate"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f43e"
+  },
+  "location": "Sp.Ložnica/Sl.Bist.Ipavec"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f43f"
+  },
+  "location": "Sp.Ložnica/Sl.Bist.K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f440"
+  },
+  "location": "Sp.Pijavško"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f441"
+  },
+  "location": "Sp.Pohanca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f442"
+  },
+  "location": "Sp.Ravne/Šoš."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f443"
+  },
+  "location": "Sp.Ravne/Šoš.Cigler"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f444"
+  },
+  "location": "Sp.Rečica/Laškem Bor"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f445"
+  },
+  "location": "Sp.Rečica/Laškem G"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f446"
+  },
+  "location": "Sp.Rečica/Laškem Koren"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f447"
+  },
+  "location": "Sp.Rečica/Laškem TIM"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f448"
+  },
+  "location": "Sp.Rečica/Laškem trg."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f449"
+  },
+  "location": "Sp.Rečica/Savinji"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f44a"
+  },
+  "location": "Sp.Vižinga"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f44b"
+  },
+  "location": "Sp.Vodale"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f44c"
+  },
+  "location": "Sp.Vranje/Sevnici"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f44d"
+  },
+  "location": "Sp.Šapole"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f44e"
+  },
+  "location": "Sp.Črnova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f44f"
+  },
+  "location": "Sr.Dolič Šentflorjan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f450"
+  },
+  "location": "Sp.Loke/Blagovici"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f451"
+  },
+  "location": "Sr.Pijavško"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f452"
+  },
+  "location": "Sr.Ponikva pri Žalcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f453"
+  },
+  "location": "St.Grad/Krškem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f454"
+  },
+  "location": "St.trg/Sl.Gradcu Rigelnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f455"
+  },
+  "location": "St.žaga/Planini/Sev."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f456"
+  },
+  "location": "Stanošina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f457"
+  },
+  "location": "Stari Trg"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f458"
+  },
+  "location": "Stenica/Vitanju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f459"
+  },
+  "location": "Stopa"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f45a"
+  },
+  "location": "Stranice"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f45b"
+  },
+  "location": "Stranice K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f45c"
+  },
+  "location": "Stranice trg."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f45d"
+  },
+  "location": "Stranice vrh"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f45e"
+  },
+  "location": "Straža pri Raki"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f45f"
+  },
+  "location": "Straža pri Raki K "
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f460"
+  },
+  "location": "Straža/Oplotnici"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f461"
+  },
+  "location": "Straže"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f462"
+  },
+  "location": "Strmec pri Rogatcu K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f463"
+  },
+  "location": "Strojna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f464"
+  },
+  "location": "Struge/Raduhi"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f465"
+  },
+  "location": "Strunjan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f466"
+  },
+  "location": "St.Slemene Grašič"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f467"
+  },
+  "location": "Studence Socka"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f468"
+  },
+  "location": "Sv. Danijel (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f469"
+  },
+  "location": "Sv.Danijel Gosnikova ž."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f46a"
+  },
+  "location": "Sv.Danijel Kovač"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f46b"
+  },
+  "location": "Sv.Danijel tran."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f46c"
+  },
+  "location": "Sv.Ema"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f46d"
+  },
+  "location": "Sv.Florjan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f46e"
+  },
+  "location": "Sv.Jurij/Donačko g."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f46f"
+  },
+  "location": "Sv.Štefan"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f470"
+  },
+  "location": "Sv.Štefan Tojnko"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f471"
+  },
+  "location": "Svetelka"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f472"
+  },
+  "location": "Svetina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f473"
+  },
+  "location": "Svetina spomenik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f474"
+  },
+  "location": "Svibno Krajšek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f475"
+  },
+  "location": "Svibno Starina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f476"
+  },
+  "location": "Tabor/Vranskem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f477"
+  },
+  "location": "Tabor/Vranskem K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f478"
+  },
+  "location": "Tajhte"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f479"
+  },
+  "location": "Teharje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f47a"
+  },
+  "location": "Teharje Mlinarjev Janez"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f47b"
+  },
+  "location": "Tekačevo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f47c"
+  },
+  "location": "Sv.Danijel Klinčnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f47d"
+  },
+  "location": "Tepanje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f47e"
+  },
+  "location": "Tepanje nadvoz"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f47f"
+  },
+  "location": "Tevče/Laškem Aškerc"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f480"
+  },
+  "location": "Tlake most K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f481"
+  },
+  "location": "Tolsti vrh Strojna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f482"
+  },
+  "location": "Tomaška vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f483"
+  },
+  "location": "Tomaška vas lipa"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f484"
+  },
+  "location": "Topla Fajmut (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f485"
+  },
+  "location": "Topolšica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f486"
+  },
+  "location": "Topolšica G"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f487"
+  },
+  "location": "Topolšica bol."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f488"
+  },
+  "location": "Torčeva žaga"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f489"
+  },
+  "location": "Trate/Dobju/Planini"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f48a"
+  },
+  "location": "Tratnik (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f48b"
+  },
+  "location": "Trbovlje Doležalek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f48c"
+  },
+  "location": "Trnovec pri Dramljah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f48d"
+  },
+  "location": "Trnovlje Gaji"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f48e"
+  },
+  "location": "Trnovlje Gradis"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f48f"
+  },
+  "location": "Trnovlje Ratej"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f490"
+  },
+  "location": "Trnovlje plinarna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f491"
+  },
+  "location": "Trobni Dol Aškerc"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f492"
+  },
+  "location": "Tevče/Laškem Marovt"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f493"
+  },
+  "location": "Trojane"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f494"
+  },
+  "location": "Trzin Mlake K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f495"
+  },
+  "location": "Trzin ind.cona"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f496"
+  },
+  "location": "Udmat"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f497"
+  },
+  "location": "V.Grahovše"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f498"
+  },
+  "location": "V.Grahovše Loke"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f499"
+  },
+  "location": "V.Kamen"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f49a"
+  },
+  "location": "V.Kamen Sikovec"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f49b"
+  },
+  "location": "V.Mraševo"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f49c"
+  },
+  "location": "V.Pirešica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f49d"
+  },
+  "location": "V.Pirešica Š"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f49e"
+  },
+  "location": "V.vas pri Krškem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f49f"
+  },
+  "location": "Varpolje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4a0"
+  },
+  "location": "Vejice Dobrškova žaga"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4a1"
+  },
+  "location": "Veleja park (NE UPORABLJAJ)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4a2"
+  },
+  "location": "Velenje Hartl"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4a3"
+  },
+  "location": "Velenje Ljubljanska c.41"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4a4"
+  },
+  "location": "Velenje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4a5"
+  },
+  "location": "Velenje Mestni stadion"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4a6"
+  },
+  "location": "Velenje NC Interspar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4a7"
+  },
+  "location": "Velenje NC Jager"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4a8"
+  },
+  "location": "Turiška vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4a9"
+  },
+  "location": "Velenje Novi jašek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4aa"
+  },
+  "location": "Velenje Pos. c. Efenkova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ab"
+  },
+  "location": "Velenje Stari jašek (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ac"
+  },
+  "location": "Velenje Vila Bianca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ad"
+  },
+  "location": "Velenje avto center Prap."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ae"
+  },
+  "location": "Velenje jezero restav."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4af"
+  },
+  "location": "Velenje pošta"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4b0"
+  },
+  "location": "Velenjka"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4b1"
+  },
+  "location": "Velka"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4b2"
+  },
+  "location": "Velunja Grabnar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4b3"
+  },
+  "location": "Velunja Končnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4b4"
+  },
+  "location": "Velunja Velunšek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4b5"
+  },
+  "location": "Vidina rampa"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4b6"
+  },
+  "location": "Vinarje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4b7"
+  },
+  "location": "Vinska Gora"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4b8"
+  },
+  "location": "Vinski vrh/Šmarju/Jel"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4b9"
+  },
+  "location": "Vir/Domžalah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ba"
+  },
+  "location": "Virštanj"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4bb"
+  },
+  "location": "Vitanje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4bc"
+  },
+  "location": "Višnja vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4bd"
+  },
+  "location": "Višnja vas Trobiš"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4be"
+  },
+  "location": "Velenje Tomšičeva"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4bf"
+  },
+  "location": "Viča vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4c0"
+  },
+  "location": "Vojnik Keršova ul."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4c1"
+  },
+  "location": "Volčja Jama"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4c2"
+  },
+  "location": "Vonarje jez (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4c3"
+  },
+  "location": "Vonarje ribnik (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4c4"
+  },
+  "location": "Vransko"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4c5"
+  },
+  "location": "Vrh nad Laškim"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4c6"
+  },
+  "location": "Vrh/Boštanju (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4c7"
+  },
+  "location": "Vrhovo/Savi"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4c8"
+  },
+  "location": "Vurmat Šturm"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4c9"
+  },
+  "location": "Vuzenica GD"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ca"
+  },
+  "location": "Vuzenica K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4cb"
+  },
+  "location": "Zabukovica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4cc"
+  },
+  "location": "Zabukovica ZD"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4cd"
+  },
+  "location": "Zabukovje/Raki"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ce"
+  },
+  "location": "Zabukovje/Sev."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4cf"
+  },
+  "location": "Zabukovje/Sev.Drnač"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4d0"
+  },
+  "location": "Zabukovje/Sev.K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4d1"
+  },
+  "location": "Zabukovje/Sev.Preska"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4d2"
+  },
+  "location": "Zadobrova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4d3"
+  },
+  "location": "Zadrže"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4d4"
+  },
+  "location": "Vonarje (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4d5"
+  },
+  "location": "Zagaj"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4d6"
+  },
+  "location": "Zagaj pri Ponikvi"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4d7"
+  },
+  "location": "Zagorje ob S."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4d8"
+  },
+  "location": "Zagrad/Celju GD (NE UPORABI)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4d9"
+  },
+  "location": "Zagrad/Celju gost."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4da"
+  },
+  "location": "Zagrad/Celju trg."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4db"
+  },
+  "location": "Zagrad/Celju Žična"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4dc"
+  },
+  "location": "Zagrad/Sopoti"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4dd"
+  },
+  "location": "Zalog kapela (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4de"
+  },
+  "location": "Zalog nadvoz AC (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4df"
+  },
+  "location": "Zalog tran. (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4e0"
+  },
+  "location": "Zaloke"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4e1"
+  },
+  "location": "Založe"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4e2"
+  },
+  "location": "Zameško"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4e3"
+  },
+  "location": "Zaplanina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4e4"
+  },
+  "location": "Zavratec"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4e5"
+  },
+  "location": "Zavratec Loke"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4e6"
+  },
+  "location": "Zavrh nad Dobrno"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4e7"
+  },
+  "location": "Zavrh pri Galiciji"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4e8"
+  },
+  "location": "Zavrh pri Galiciji Ute"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4e9"
+  },
+  "location": "Završe Meh"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ea"
+  },
+  "location": "Zagrad/Celju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4eb"
+  },
+  "location": "Završe/Huda Luknja"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ec"
+  },
+  "location": "Začret"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ed"
+  },
+  "location": "Začret K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ee"
+  },
+  "location": "Zg.Gradišče/Rogatcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ef"
+  },
+  "location": "Zg.Hudinja"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4f0"
+  },
+  "location": "Zg.Hudinja Ul.frank.žrtev"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4f1"
+  },
+  "location": "Zg.Kraše"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4f2"
+  },
+  "location": "Zg.Laže"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4f3"
+  },
+  "location": "Zg.Laže K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4f4"
+  },
+  "location": "Zg.Ložnica/Sl.Bist.K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4f5"
+  },
+  "location": "Zg.Podkraj"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4f6"
+  },
+  "location": "Zg.Pohanca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4f7"
+  },
+  "location": "Zg.Polskava"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4f8"
+  },
+  "location": "Zg.Polskava g.Golob"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4f9"
+  },
+  "location": "Zg.Ravne/Šoš."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4fa"
+  },
+  "location": "Zg.Ravno/Žetalah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4fb"
+  },
+  "location": "Zg.Rečica/Laškem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4fc"
+  },
+  "location": "Zg.Rečica/Laškem Jager"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4fd"
+  },
+  "location": "Zg.Rečica/Laškem Maček"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4fe"
+  },
+  "location": "Zg.Rečica/Laškem Š"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f4ff"
+  },
+  "location": "Zg.Vižinga"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f500"
+  },
+  "location": "Zeče pri Bučah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f501"
+  },
+  "location": "Zg.Črnova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f502"
+  },
+  "location": "Zidani Most"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f503"
+  },
+  "location": "Zidani Most kamnolom"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f504"
+  },
+  "location": "Zlatoper"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f505"
+  },
+  "location": "Zreče nova cona"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f506"
+  },
+  "location": "Zreče zad."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f507"
+  },
+  "location": "Šalek K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f508"
+  },
+  "location": "Šalek K (ne uporabi)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f509"
+  },
+  "location": "Šalek Skalca"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f50a"
+  },
+  "location": "Šavna peč"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f50b"
+  },
+  "location": "Šedina kap."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f50c"
+  },
+  "location": "Šempeter v Savinj.d.PTT"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f50d"
+  },
+  "location": "Šempeter v Savinj.d.SIP"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f50e"
+  },
+  "location": "Šempeter v Savinj.d.nadv."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f50f"
+  },
+  "location": "Šempeter v Savinj.d.Š (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f510"
+  },
+  "location": "Šempeter v Savinj.d.Štorman (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f511"
+  },
+  "location": "Šentanel"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f512"
+  },
+  "location": "Šentilj pod Turjakom K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f513"
+  },
+  "location": "Šentjanž pri Dravogradu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f514"
+  },
+  "location": "Šentjanž/Krmelju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f515"
+  },
+  "location": "Šentjanž/Ljubnem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f516"
+  },
+  "location": "Zlakova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f517"
+  },
+  "location": "Šentjanž/Sv.Štefanu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f518"
+  },
+  "location": "Šentjanž/Štorah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f519"
+  },
+  "location": "Šentjur na Polju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f51a"
+  },
+  "location": "Šentjur na Polju Gričar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f51b"
+  },
+  "location": "Šentjur/Celju Cevarna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f51c"
+  },
+  "location": "Šentjur/Celju Pešnica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f51d"
+  },
+  "location": "Šentrupert/Laškim"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f51e"
+  },
+  "location": "Šentrupert/Savinj.d."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f51f"
+  },
+  "location": "Šentvid/Planini/Sev."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f520"
+  },
+  "location": "Škafarjev hrib K. (p) (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f521"
+  },
+  "location": "Škafarjev hrib kolonija (p) (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f522"
+  },
+  "location": "Škale Brložnik"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f523"
+  },
+  "location": "Škale Glinšek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f524"
+  },
+  "location": "Škale K"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f525"
+  },
+  "location": "Škale Turn "
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f526"
+  },
+  "location": "Škedenj Zidanšek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f527"
+  },
+  "location": "Škofja vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f528"
+  },
+  "location": "Šmarje pri Jelšah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f529"
+  },
+  "location": "Šmarjeta pri Celju"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f52a"
+  },
+  "location": "Šmartno ob Dreti"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f52b"
+  },
+  "location": "Šmartno ob Paki"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f52c"
+  },
+  "location": "Šmartno ob Paki Baron"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f52d"
+  },
+  "location": "Šmartno pri Sl.Gradcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f52e"
+  },
+  "location": "Šmartno v Rožni dolini"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f52f"
+  },
+  "location": "Šmarčna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f530"
+  },
+  "location": "Šmatevž"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f531"
+  },
+  "location": "Šmiklavž pri Šk.vasi"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f532"
+  },
+  "location": "Šmiklavž/G.Gradu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f533"
+  },
+  "location": "Šmiklavž/Sl.Gradcu"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f534"
+  },
+  "location": "Šoštanj"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f535"
+  },
+  "location": "Šoštanj Gorenje"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f536"
+  },
+  "location": "Šoštanj TEŠ"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f537"
+  },
+  "location": "Špitalič pri Sl.Konj."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f538"
+  },
+  "location": "Škale kamnolom"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f539"
+  },
+  "location": "Štopar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f53a"
+  },
+  "location": "Štore Lipa"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f53b"
+  },
+  "location": "Šutna"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f53c"
+  },
+  "location": "Žadovinek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f53d"
+  },
+  "location": "Žahenberc"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f53e"
+  },
+  "location": "Žale/Žetalah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f53f"
+  },
+  "location": "Žalec"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f540"
+  },
+  "location": "Žalec II.OŠ (****)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f541"
+  },
+  "location": "Žalec Rizmal"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f542"
+  },
+  "location": "Žalec pokop."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f543"
+  },
+  "location": "Žalec Š (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f544"
+  },
+  "location": "Žamerk"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f545"
+  },
+  "location": "Žamerk kam."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f546"
+  },
+  "location": "Žegar"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f547"
+  },
+  "location": "Žepina"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f548"
+  },
+  "location": "Žepina K (PL)"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f549"
+  },
+  "location": "Žerjav"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f54a"
+  },
+  "location": "Žetale"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f54b"
+  },
+  "location": "Žetale Paukon"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f54c"
+  },
+  "location": "Žiče/Sl.Konj.kamnolom"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f54d"
+  },
+  "location": "Čadram"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f54e"
+  },
+  "location": "Žabljek"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f54f"
+  },
+  "location": "Časlova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f550"
+  },
+  "location": "Čatež ob Savi"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f551"
+  },
+  "location": "Čeplje/Vranskem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f552"
+  },
+  "location": "Črešnjice/Frankolovem"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f553"
+  },
+  "location": "Črešnova"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f554"
+  },
+  "location": "Črna na Kor."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f555"
+  },
+  "location": "Črneča vas"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f556"
+  },
+  "location": "Črneče Matavunder"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f557"
+  },
+  "location": "Črni Kal sp."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f558"
+  },
+  "location": "Črni Kal zg."
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f559"
+  },
+  "location": "Črnolica"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f55a"
+  },
+  "location": "Črešnjice pri Cerkljah"
+}, {
+  "_id": {
+    "$oid": "5a5eae611bb987df3d55f55b"
+  },
+  "location": "Črnolica Čatrov hrib"
+}, {
+  "_id": {
+    "$oid": "5a5eae846395363742bcb874"
+  },
+  "location": "test"
+}]

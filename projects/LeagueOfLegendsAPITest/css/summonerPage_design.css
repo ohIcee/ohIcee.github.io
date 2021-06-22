@@ -1,0 +1,412 @@
+@font-face { font-family: RobotoBOLD; src: url('../fonts/Roboto-Bold.ttf'); }
+@font-face { font-family: RobotoLIGHT; src: url('../fonts/Roboto-Light.ttf'); }
+@font-face { font-family: RobotoLIGHTITALIC; src: url('../fonts/Roboto-LightItalic.ttf'); }
+@font-face { font-family: RobotoMEDIUM; src: url('../fonts/Roboto-Medium.ttf'); }
+@font-face { font-family: RobotoMEDIUMITALIC; src: url('../fonts/Roboto-MediumItalic.ttf'); }
+@font-face { font-family: RobotoREGULAR; src: url('../fonts/Roboto-Regular.ttf'); }
+@font-face { font-family: RobotoTHIN; src: url('../fonts/Roboto-Thin.ttf'); }
+@font-face { font-family: RobotoTHINITALIC; src: url('../fonts/Roboto-ThinItalic.ttf'); }
+
+@media only screen and (min-width: 0px) {
+  body {
+      background-size:contain;
+  }
+}
+
+@media only screen and (min-width: 3540px) {
+  body {
+    background-size:cover;
+  }
+}
+
+::selection {
+  background: #f39c12;
+}
+
+@media handheld,screen and (min-width: 1250px) {
+  .LiveGamePlayerName {
+    font-size: 25px;
+  }
+  .LiveGamePlayerChampionImage {
+    padding: 10px !important;
+  }
+}
+
+@media handheld,screen and (max-width: 1246px) {
+  #LiveGameDivisionPicture {
+    display: none;
+  }
+}
+
+@media handheld,screen and (max-width: 1150px) {
+  .websiteLogo {
+    display: none;
+  }
+}
+
+@media handheld,screen and (max-width: 960px) {
+  .LiveGamePlayerName {
+    font-size: 15px;
+  }
+  .LiveGamePlayerChampionImage {
+    padding: 15px !important;
+  }
+  #gameDurationHint {
+    display: block;
+  }
+}
+
+@media handheld,screen and (max-width: 780px) {
+  .LiveGamePlayerName {
+    font-size: 12px;
+  }
+  .LiveGamePlayerChampionImage {
+    padding: 20px !important;
+  }
+  #gameDurationHint {
+    display: none;
+  }
+  body {
+      /*background-size:cover;*/
+  }
+}
+
+body {
+  padding: 0;
+  margin: 0 auto;
+  width: 100%;
+  font-family: RobotoREGULAR;
+}
+
+#gameDurationHint {
+  font-style: italic;
+  font-size: 13px;
+}
+
+#preloader {
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  background-color: rgba(52, 73, 94,0.7);
+  text-align: center;
+  z-index: 200;
+}
+
+#preloader h1 {
+  margin-top: 25%;
+  font-family: RobotoBOLD;
+  color: #3498db;
+  -webkit-text-stroke: 2px black;
+}
+
+.navbar {
+  background-color: #3498db;
+  top: 0;
+  z-index: 100;
+  position: fixed;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #158ad8;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #3498db;
+    color: white;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #3498db;
+    color: white;
+}
+
+.userINFO {
+  min-height: 500px;
+  margin: auto;
+  text-align: center;
+
+}
+
+.userINFO_span {
+  position: relative;
+}
+
+.IndexLayoutWrap {
+  position: relative;
+  min-width: 600px;
+  min-height: 100%;
+}
+
+.summoner_name_display_userINFO {
+
+  margin-bottom: 550px;
+  font-size: 50px;
+  font-weight:bold;
+  text-transform: uppercase;
+  color: #3498db;
+  margin-left: 5px;
+
+}
+
+.userINFOContainer {
+  background-color: rgba(44, 62, 80,0.75);
+}
+
+#summoner_name_display_userINFO_Border_Right {
+
+  border-right: 3px solid white;
+  margin-left: 7px;
+
+}
+
+.refresh_button {
+
+  margin: auto;
+  text-align: center;
+  border: 3px solid #3498db;
+  max-width: 600px;
+  min-height: 80px;
+  vertical-align: middle;
+  line-height: 80px;
+  color: #3498db;
+  font-size: 50px;
+  font-weight: bold;
+  transition-duration: 0.4s;
+  cursor: pointer;
+
+}
+
+.refresh_button:hover {
+
+  background-color: #3498db;
+  color: white;
+  transform: scale(0.98);
+
+}
+
+.refresh_button:active {
+  transform: scale(0.9);
+}
+
+.lastRefreshedText {
+
+  font-size: 16px;
+  color: white;
+  font-family: RobotoMEDIUMITALIC;
+
+}
+
+.user_rank_display {
+
+  width: 250px;
+  height: 250px;
+  vertical-align: middle;
+
+}
+
+.userSTATS_Start {
+
+  border-top: 3px solid #3498db;
+  background-color: #ecf0f1;
+  display: flex;
+
+}
+
+.userSTATS {
+  /*max-width: 1000px;*/
+  width: 100%;
+  min-height: 1500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.sidenav {
+  width: 30%;
+  height:auto;
+  position:relative;
+}
+
+.sideNavButton {
+  margin: auto;
+  text-align: center;
+  max-width: 600px;
+  width: 100%;
+  float: left;
+  min-height: 80px;
+  vertical-align: middle;
+  line-height: 80px;
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  padding: 15px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.sideNavButton:hover {
+  background-color: #ecf0f1;
+  color: #3498db;
+}
+
+.infoRow {
+  font-size: 20px;
+  background-color: #3498db;
+  color: #ecf0f1;
+  height: 60px;
+  line-height: 60px;
+  vertical-align: middle;
+  margin: auto;
+  box-shadow: 5px 5px 2px #888888;
+  cursor: default;
+  transition-duration: 0.4s;
+  margin-top: 25px;
+}
+
+.infoRow:hover {
+  transform: scale(0.98);
+}
+
+.liveGamePlayerBorder {
+  margin-top: 25px;
+  width:auto;
+  height: 580px;
+  /*border: 3px solid #3498db;*/
+}
+
+.liveGamePlayersLeft {
+  float: left;
+  width: 50%;
+}
+
+.liveGamePlayersRight {
+  float :right;
+  width: 50%;
+}
+
+.disabledbutton {
+    pointer-events: none;
+    opacity: 0.4;
+}
+
+.LiveGamePlayerRow {
+  height: 108.5px;
+  margin: 5px;
+  width: auto;
+  box-shadow: 3px 3px 1px;
+  transition-duration: 0.2s;
+  position: relative;
+}
+
+.LiveGamePlayerRow:hover {
+  transform: scale(0.995);
+}
+
+.matchHistoryRow {
+  height: 450px;
+  margin: 5px;
+  margin-top: 18px;
+  width: auto;
+  box-shadow: 5px 5px 2px;
+  transition-duration: 0.2s;
+}
+
+.historyMatchPlayer {
+  color: white;
+  font-size: 20px;
+}
+
+#redPlayerRow {
+  background-color: #F44336;
+}
+
+#bluePlayerRow {
+  background-color: #3498db;
+}
+
+.LiveGamePlayerName {
+  height: 108.5px;
+  line-height: 108.5px;
+  /*font-size: 18px;*/
+  /*font-size: 2.5vw;*/
+  color: white;
+  left: 0;
+}
+
+.LiveGamePlayerSummSpell {
+  width: 54px;
+  height: 54px;
+  display: block;
+  padding: 5px;
+}
+
+.LiveGamePlayerSummonerSpellsRow {
+  position:absolute;
+  top:0;
+  left: 0;
+}
+
+#redSummonerRow {
+  border-right: 3px solid #c0392b;
+}
+
+#blueSummonerRow {
+  border-right: 3px solid #2980b9;
+}
+
+.LiveGamePlayerChampionImage {
+  border-radius: 50%;
+  height: 100%;
+  width: auto;
+  padding: 10px;
+  vertical-align: middle;
+  margin-bottom:0.25em;
+}
+
+.userCurrentGameInformation {
+  border: 3px solid #3498db;
+  max-width: 1000px;
+  min-height: 250px;
+  margin: auto;
+}
+
+.userCurrentGameInformationTitle {
+  font-size: 35px;
+  color: black;
+  font-weight: bold;
+}
+
+.userCurrentGameInformationGamemode {
+  margin-top: -45px;
+  font-style: italic;
+}
+
+.userSUMMONER_LevelText {
+
+  font-size: 50px;
+  color: #3498db;
+  font-weight: bold;
+
+}
+
+.userSUMMONER_Level {
+  color: #e74c3c;
+  font-size: 50px;
+  font-weight: bold;
+}

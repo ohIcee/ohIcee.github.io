@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Bolsago</title>
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css" integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb4E" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/loading_cube.css">
+    <link rel="stylesheet" href="css/design.css">
+  </head>
+  <body>
+
+    <div id="top">
+      <h1 class="text-center">Bolšago</h1>
+    </div>
+
+    <div class="container" id="relation-select-wrapper">
+      <div class="row">
+        <div class="col-sm">
+          <input type="text" name="vstopna" id="origin-location-input" list="stations-datalist" placeholder="Vstopna Postaja" required>
+        </div>
+        <div class="col-sm">
+          <input type="text" name="izstopna" id="destination-location-input" list="stations-datalist" placeholder="Izstopna Postaja" required>
+        </div>
+        <div class="col-sm">
+          <input type="date" id="date-input">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm">
+          <div class="custom-control custom-checkbox mr-sm-2">
+            <input type="checkbox" class="custom-control-input" id="switch-relation-input">
+            <label class="custom-control-label" for="switch-relation-input">V povratni smeri</label>
+          </div>
+        </div>
+        <div class="col-sm">
+          <button type="submit" id="search-button" name="button">Iskanje</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div id="relation-loader-wrapper" class="hide">
+        <div id="relation-loading-indicator" class="sk-cube-grid">
+          <div class="sk-cube sk-cube1"></div>
+          <div class="sk-cube sk-cube2"></div>
+          <div class="sk-cube sk-cube3"></div>
+          <div class="sk-cube sk-cube4"></div>
+          <div class="sk-cube sk-cube5"></div>
+          <div class="sk-cube sk-cube6"></div>
+          <div class="sk-cube sk-cube7"></div>
+          <div class="sk-cube sk-cube8"></div>
+          <div class="sk-cube sk-cube9"></div>
+        </div>
+      </div>
+
+      <div id="result-list-wrapper" class="">
+
+        <!-- <div class="item">
+          <span class="rideTime">04:21</span>
+          <span> <i class="fas fa-caret-right"></i> </span>
+          <span>02:31</span>
+          <span class="price">1.8€</span>
+        </div> -->
+
+      </div>
+
+      <div id="error-wrapper" class="hide">
+        <i class="fas fa-exclamation"></i>
+        <h1>Napaka pri iskanju relacije!</h1>
+        <h6 class="error-msg"></h6>
+      </div>
+
+    </div>
+
+    <datalist id="stations-datalist">
+    </datalist>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js" charset="utf-8"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="js/script.js" charset="utf-8"></script>
+  </body>
+</html>

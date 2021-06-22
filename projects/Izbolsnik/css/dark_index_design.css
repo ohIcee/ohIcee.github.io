@@ -1,0 +1,32 @@
+html {
+  background-color: black;
+}
+
+#header-wrapper {
+  background-color: rgb(27, 28, 29);
+}
+
+#header-wrapper i {
+  color: white;
+}
+
+#header-wrapper .sidebar {
+  color: white;
+}
+
+#header-name {
+  color: white;
+}
+
+body.pushable>.pusher {
+  background-color: black !important;
+}
+
+#relations tr:nth-child(odd) {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+
+#relations th {
+  background-color: rgba(0, 0, 0, 0.5);
+}

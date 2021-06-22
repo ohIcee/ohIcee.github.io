@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+  #slika {
+    width: 100% !important;
+  }
+}
+
+#content-wrapper {
+  padding: 50px 50px;
+}
+
+.ui.basic.orange.button:hover { background-color: #f26202 !important; color: white !important; }

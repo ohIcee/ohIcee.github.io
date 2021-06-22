@@ -1,0 +1,192 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Varela Round', sans-serif;
+}
+
+body {
+  background: linear-gradient(to left, #ba7453, #d1a984);
+}
+
+.slider {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  margin: 0% 10%;
+  height: 10vh;
+  align-items: center;
+  flex: 1;
+}
+
+nav .links {
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+}
+
+nav .links a {
+  margin: 0px 20px;
+  color: black;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 1px solid black;
+  padding: 10px 20px;
+  background: transparent;
+  transition-duration: 0.3s;
+}
+
+nav .links a:hover {
+  border: 1px solid black;
+  background: black;
+  color: white;
+  margin: 0px 30px;
+}
+
+#logo {
+  grid-column: 2/3;
+  font-size: 24px;
+}
+
+.hamburger {
+  justify-self: end;
+  height: 25%;
+}
+
+section.intro {
+  display: flex;
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero {
+  height: 60%;
+  width: 100%;
+  position: relative;
+}
+
+.hero div {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  background-image: url('https://blog.printsome.com/wp-content/uploads/clothing-photography-1.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.headline {
+  position: absolute;
+  top: 70%;
+  left: 10%;
+  font-size: 100px;
+  transform: translate(-20%, -70%);
+  color: white;
+  z-index: 3;
+  transition-duration: 0.3s;
+  font-family: 'Dancing Script', cursive;
+}
+
+.hero::after {
+  content: "";
+  background: black;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0.4;
+}
+
+#formfactors {
+  height: 50vh;
+  margin: 0 10%;
+  margin-bottom: 50px;
+}
+
+#formfactors div {
+  height: 100%;
+}
+
+#formfactors .item {
+  padding: 30px;
+}
+
+#formfactors .item img {
+  height: 100%;
+  width: auto;
+  transition-duration: 0.3s;
+}
+
+#formfactors .item h3 {
+  font-family: 'Dancing Script', cursive;
+  position: absolute;
+  right: 50px;
+  top: 20px;
+  font-size: 80px;
+  transition-duration: 0.3s;
+}
+
+#formfactors .item button {
+  padding: 10px 20px;
+  background: none;
+  color: black;
+  border: 1px solid black;
+  cursor: pointer;
+  outline: none;
+  transition-duration: 0.3s;
+  position: absolute;
+  top: 150px;
+  right: 50px;
+  width: 170px;
+  height: 60px;
+}
+
+#formfactors .item button:hover {
+  background: black;
+  color: white;
+}
+
+@media (max-width: 900px) {
+    .headline {
+        font-size: 70px;
+    }
+}
+
+@media (max-width: 700px) {
+    #formfactors .item h3 {
+      font-size: 60px;
+    }
+    #formfactors .item button {
+      width: 140px;
+      height: 40px;
+      top: 100px;
+    }
+}
+
+@media (max-width: 550px) {
+  #formfactors .item img {
+    filter: brightness(50%);
+  }
+  #formfactors .item {
+    color: white;
+  }
+  #formfactors .item button {
+    border-color: white;
+    color: white;
+  }
+  #formfactors .item button:hover {
+    background: white;
+    color: black;
+  }
+}

@@ -1,0 +1,189 @@
+a.anchor {
+  display: block;
+  position: relative;
+  top: -125px;
+  visibility: hidden;
+}
+
+.item img {
+  max-height: 115px;
+  width: auto !important;
+  margin: 0 auto;
+}
+
+section {
+  margin: 30px 0px;
+  transition-duration: 0.3s;
+}
+
+footer {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: black;
+  background-color: white;
+}
+
+.hide {
+  display: none !important;
+}
+
+.item .ui.small.image:hover,
+.item .header:hover {
+  cursor:default !important;
+  text-decoration: none;
+}
+
+#top-logo {
+  transition-duration: 0.3s;
+}
+
+.jumbotron {
+  padding-top: 200px !important;
+  padding-bottom: 200px !important;
+  background-image: url('../res/carousel-gas-placeholder.png');
+  background-position: bottom;
+  background-size: cover;
+  transition-duration: 0.2s;
+  height: 598px;
+  position: relative;
+}
+
+.jumbotron h1,
+.jumbotron p {
+  color: white !important;
+  text-shadow: 2px 2px #000000;
+}
+
+#welcome-wrapper {
+  height: 80vh;
+  width: 100vw;
+  max-width: 100%;
+  background-color: red;
+}
+
+#more-contact-info-button,
+#more-company-info-button {
+  margin-top: 25px;
+  transition-duration: 0.3s;
+}
+
+button {
+  font-size: 14px !important;
+}
+
+.ui.red.button.carousel {
+  font-size: 20px !important;
+  z-index: 5;
+}
+
+.ui.red.basic.button {
+  padding: 20px 40px !important;
+}
+
+#more-about,
+#company-details {
+  display: none;
+}
+
+.slider-dot-control {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    height: 30px;
+}
+
+.slider-dot-control label {
+    cursor: pointer;
+    border-radius: 17px;
+    display: inline-block;
+    width: 17px;
+    height: 17px;
+    line-height: 24px;
+    background: rgba(0, 0, 0, 0.45);
+    border: 1px solid rgba(255, 255, 255, 0.65);
+    transition: all 0.3s;
+}
+
+.slider-dot-control label:hover {
+  background: rgba(255, 0, 0, 0.8);
+  border-color: none;
+}
+
+.slider-dot-active {
+  background: rgba(255, 0, 0, 1) !important;
+}
+
+.ui.small.image {
+  background-size: cover;
+  background-position: center;
+}
+
+.item .content .description #date {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 600px) {
+  #content-wrapper {
+    padding: 0px 25px;
+  }
+}
+
+@media (max-width: 845px) {
+  .carousel-controls {
+    display: none;
+  }
+}
+
+@media (max-width: 998px) {
+  .description p {
+    line-height:  normal !important;
+  }
+  .content {
+    font-size: 1.25rem !important;
+  }
+  .item .content .description #date {
+    margin-bottom: 0px;
+  }
+}
+
+@media (max-width: 1236px) {
+  .carousel-controls .prev-slide span,
+  .carousel-controls .next-slide span {
+    font-size: 50px;
+  }
+}
+
+@media (max-width: 769px) {
+  .ui.items {
+    transition-duration: 0.3s;
+    margin: 0 auto;
+  }
+  .ui.items:not(.unstackable)>.item>.image, .ui.items:not(.unstackable)>.item>.image>img {
+    height: 200px;
+    width: 100% !important;
+  }
+  .section h1 {
+    font-size: 40px !important;
+    text-align: center;
+  }
+  .jumbotron {
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+  }
+  .ui.items .item .ui.small.image img {
+    height: 200px;
+  }
+  .jumbotron {
+    height: 299px !important;
+  }
+}
+
+@media (max-width: 700px) {
+  #content-wrapper {
+    transition-duration: 0.25s;
+    padding: 0 2px !important;
+    margin-top: 0px;
+  }
+
+}

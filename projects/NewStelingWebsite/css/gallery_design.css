@@ -1,0 +1,46 @@
+body {
+  position: relative;
+  padding-top: 70px;
+}
+.tempCatName {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+.category-select-dropdown {
+  float: none !important;
+}
+#grid {
+  padding-top: 20px;
+  width: 100%;
+}
+img {
+  max-width: 100%;
+  padding: 10px;
+}
+.category-sort-wrapper {
+  border-left: 3px solid grey;
+}
+#grid[data-columns]::before {
+	content: '3 .column.size-1of3';
+}
+
+/* These are the classes that are going to be applied: */
+.column { float: left; }
+.size-1of3 { width: 33.333%; }
+
+@media (max-width: 767px) {
+  .size-1of3 {
+    width: 49.99%;
+  }
+}
+
+@media (max-width: 575px) {
+  .size-1of3 {
+    width: 100%;
+  }
+}
+
+.img-grid {
+  min-height: 189px;
+}

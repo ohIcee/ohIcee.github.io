@@ -1,0 +1,43 @@
+body {
+  display: none;
+}
+
+#site_wrapper {
+  height: 100%;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#header {
+  margin: 0;
+}
+
+.ui.items.module {
+  display: none;
+}
+
+.ui.items:first-child {
+    margin-top: 1.5em!important;
+}
+
+.ui.items.module .header {
+  text-transform: capitalize;
+}
+
+#after-upload-content {
+  display: none;
+}
+
+@media (max-width: 1200px) {
+  #site_wrapper {
+    width: 80%;
+  }
+}
+
+@media (max-width: 991px) {
+  #site_wrapper {
+    width: 80%;
+  }
+}

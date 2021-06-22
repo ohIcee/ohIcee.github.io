@@ -55,6 +55,26 @@ nav ul {
   margin: 0;
 }
 
+nav ul .cv-redirect {
+  background: none;
+  border: none;
+  color: black;
+  font-weight: bold;
+  padding: 10px 40px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: rgba(47, 1, 107, 0.3);
+  position: relative;
+  -webkit-transition-duration: .3s;
+          transition-duration: .3s;
+}
+
+nav ul .cv-redirect:hover {
+  -webkit-box-shadow: inset 0 -3.25em 0 0 #2f016b;
+          box-shadow: inset 0 -3.25em 0 0 #2f016b;
+  color: white;
+}
+
 nav ul li {
   display: inline;
   -webkit-box-sizing: border-box;
@@ -234,21 +254,12 @@ section#welcome .container .centered .action {
   line-height: 82px;
   font-family: 'Poppins';
   text-decoration: none;
-  -webkit-box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.5);
-          box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.5);
-}
-
-section#welcome .container .centered .action:active {
-  -webkit-box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.8);
-          box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.8);
 }
 
 section#welcome .container .centered .action:hover {
-  background-position: right center;
-  background-color: #2f016b;
   color: #fff;
-  -webkit-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.65);
-          box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.65);
+  -webkit-box-shadow: inset 0 -3.25em 0 0 #2f016b;
+          box-shadow: inset 0 -3.25em 0 0 #2f016b;
 }
 
 @-webkit-keyframes welcome_name_anim {
@@ -356,7 +367,6 @@ section#welcome .container .centered .action:hover {
 }
 
 section#about {
-  min-height: 60vh;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   background: #6100FF;
@@ -369,7 +379,7 @@ section#about .anchor {
 
 section#about .anchor #about-anchor {
   position: absolute;
-  top: -100px;
+  top: -200px;
 }
 
 section#about .container {
@@ -378,25 +388,16 @@ section#about .container {
   display: flex;
 }
 
+section#about .spacer {
+  margin: 100px 0px;
+}
+
 section#about svg {
   background: #fff;
 }
 
-section#about::after {
-  content: "";
-  display: block;
-  position: absolute;
-  width: 100%;
-  height: 20%;
-  background-color: white;
-  left: 0;
-  top: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-}
-
 section#about .side {
-  width: 50%;
+  width: 100%;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   display: inline-block;
@@ -435,6 +436,13 @@ section#about .right-side img {
   width: auto;
   height: 100%;
   max-height: 400px;
+}
+
+@media (max-width: 435px) {
+  .side.right-side img {
+    height: auto !important;
+    width: 100% !important;
+  }
 }
 
 .mobile-menu-overlay {
@@ -503,8 +511,9 @@ section#projects {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   position: relative;
-  background: #fff;
-  color: #000;
+  background: #6100FF;
+  color: #fff;
+  padding-bottom: 20px;
 }
 
 section#projects .anchor {
@@ -523,11 +532,15 @@ section#projects h1.header {
 section#projects .projects-list .project {
   min-height: 150px;
   padding: 20px 40px;
-  border-left: 3px solid #6100FF;
+  border-left: 3px solid #fff;
   -webkit-transition: .3s ease;
   transition: .3s ease;
   margin: 20px 0px;
   position: relative;
+}
+
+section#projects .projects-list .project a {
+  color: white;
 }
 
 section#projects .projects-list .project h1, section#projects .projects-list .project p, section#projects .projects-list .project span {
@@ -554,13 +567,24 @@ section#projects .projects-list .project span.inline > * {
 }
 
 section#projects .projects-list .project:hover {
-  color: #fff;
+  color: #6100FF;
   cursor: pointer;
-  background: #6100FF;
+  background: #fff;
+}
+
+section#projects .projects-list .project:hover a {
+  color: #6100FF;
 }
 
 section#projects .projects-list .project:hover h1 .date {
   margin-left: 10px;
+  background: #6100FF;
+  color: #fff;
+}
+
+section#projects svg {
+  background: #fff;
+  margin-bottom: -15px;
 }
 
 section#contact {
@@ -570,6 +594,7 @@ section#contact {
   position: relative;
   background-color: #2f016b;
   color: #fff;
+  padding-bottom: 150px;
 }
 
 section#contact h1 {
@@ -577,7 +602,7 @@ section#contact h1 {
 }
 
 section#contact svg {
-  background: #fff;
+  background: #6100FF;
 }
 
 section#contact .option-wrapper {
@@ -587,6 +612,14 @@ section#contact .option-wrapper {
   transition: .3s ease;
   padding: 10px 20px;
   padding-right: 40px;
+  margin-bottom: 20px;
+}
+
+section#contact .option-wrapper img {
+  height: 50px;
+  width: 50px;
+  vertical-align: middle;
+  margin-right: 20px;
 }
 
 section#contact .option-wrapper:hover {
